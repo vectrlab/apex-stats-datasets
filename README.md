@@ -1,4 +1,10 @@
+<img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/APEX_logo.png" alt="APEX: Applied Programming Experiences Logo" style="height:10em;">
+
 # APEX STATS Dataset Library
+
+Datasets are public datasets with specific formatting so they are ready for use with any APEX STATS code snippet. We cleaned them up, so there are no missing cases or erroneous values. The original messy dataset is separately available in case you want to teach data cleaning. Datasets include a guide that explains the data and gives suggestions for potentially interesting analyses.
+
+# About APEX STATS
 
 APEX STATS is a set of editable, modular resources that use Python as instructional technology to make it easier for instructors to teach introductory statistics.
 
