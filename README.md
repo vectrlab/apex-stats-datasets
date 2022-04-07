@@ -4,7 +4,7 @@
 
 Datasets are public datasets with specific formatting so they are ready for use with any APEX STATS code snippet. We cleaned them up, so there are no missing cases or erroneous values. The original messy dataset is separately available in case you want to teach data cleaning. Datasets include a guide that explains the data and gives suggestions for potentially interesting analyses.
 
-# About APEX STATS
+## About APEX STATS
 
 APEX STATS is a set of editable, modular resources that use Python as instructional technology to make it easier for instructors to teach introductory statistics.
 
@@ -14,5 +14,10 @@ APEX STATS is aligned to the California Transfer and Articulation System, <a hre
 
 APEX STATS is a work in progress! We are taking an iterative, instructor-centered design approach. Your feedback about what is working and not working in APEX STATS will be used to help improve the project.
 
-To get started, check out the instructor guide.
+To get started, check out the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a>.
 
+## APEX STATS Resources
+- <a href="https://github.com/vectrlab/apex-stats-modules/">Modules</a>
+- <a href="https://github.com/vectrlab/apex-stats-datasets/">Datasets</a>
+- <a href="https://github.com/vectrlab/apex-stats-modules/">Code Snippet Library</a>
+- <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Module_Construction_Kit.ipynb">Module Construction Kit</a>
