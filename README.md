@@ -4,6 +4,10 @@
 
 This is a library of public datasets cleaned and ready for use with any APEX STATS code snippet. There are no missing cases or erroneous values. The original messy dataset is separately available and could be used to teach data cleaning. Datasets include a guide that explains the data and gives suggestions for potentially interesting analyses.
 
+## Quick Start
+
+If you are new to APEX STATS, start with the <a href="https://github.com/vectrlab/apex-stats-modules/">Modules</a>.
+
 ## About APEX STATS
 
 APEX STATS is a set of open, editable, and modular resources that use Python as instructional technology to make it easier to teach introductory statistics.
