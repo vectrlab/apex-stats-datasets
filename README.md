@@ -1,6 +1,7 @@
 <img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/APEX_logo.png" alt="APEX: Applied Programming Experiences Logo" style="height:10em;">
 
 # APEX STATS Dataset Library
+<img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/noun-cube-2209535-FF824A.png" style="max-width:2em;float:left;" width="10%" alt="Dataset logo as a cube">
 
 This is a library of public datasets cleaned and ready for use with any APEX STATS code snippet. There are no missing cases or erroneous values. The original messy dataset is separately available and could be used to teach data cleaning. Datasets include a guide that explains the data and gives suggestions for potentially interesting analyses.
 
