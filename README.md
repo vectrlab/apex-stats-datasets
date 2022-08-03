@@ -6,14 +6,7 @@ This is a library of public datasets cleaned and ready for use with any APEX STA
 
 ## Quick Start
 
-Start doing statistics in Python right now by exploring the completed modules:
-
-1. Introduction (in development)
-2. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Frequency_Distributions.ipynb">Frequency Distributions</a>
-3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Tendency.ipynb">Central Tendency</a>
-4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Variability.ipynb">Variability</a>
-5. Central Limit Theorem (in development)
-6. Hypothesis Testing (in development)
+If you are new to APEX STATS, start with the <a href="https://github.com/vectrlab/apex-stats-modules/">Modules</a>.
 
 ## About APEX STATS
 
