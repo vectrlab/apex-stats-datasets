@@ -1,4 +1,4 @@
-id,dog_cat,num_pet,music_type,restaurant,mus_study,hours_study,study_pref,caffeine,alcohol,active,active_min,circadian_rhythm,sleep_hours,shows_hours,media_multitask,organized,procrastinate,personality,num_friends,social_app,social_minutes,social_follow,acad_discipline,age,gender_ident,pol_affil,stat_know,program_know
+y,x,x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,x15,x16,x17,x18,x19,x20,x21,x22,x23,x24,x25,x26,x27
 1,Dog,0,Pop,Sushi,No,2,Alone,"Yes, regularly","Yes, infrequently","Yes, infrequently",30,Early bird,6.5,1,1,5,2,Introvert,3,Not applicable,0,0,Health sciences,37,Man,Democratic,2,1
 2,Cat,2,Pop,Soul food,Yes,1,With others,"Yes, infrequently","Yes, regularly","Yes, regularly",30,Early bird,7,3,4,3,5,Ambivert,1,Instagram,90,900,Health sciences,28,Woman,Democratic,3,1
 3,Dog,0,Classical,Vietnamese,No,4,With others,No,No,"Yes, infrequently",90,Early bird,5,6,4,4,2,Ambivert,1,Instagram,120,840,Sciences,20,Man,Democratic,2,3
