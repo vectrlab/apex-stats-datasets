@@ -451,7 +451,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 89,24,53,85,78,86,10,CAM,H. Çalhanoğlu,Milan
 28,24,85,62,55,74,4,RWB,M. Ginter,Borussia Mönchengladbach
 88,25,81,66,59,58,4,RCB,M. Keane,Everton
-€0.00,24,60,78,77,82,5,CM,L. Paredes,
+0.00,24,60,78,77,82,5,CM,L. Paredes,
 1,28,69,64,60,75,6,RDM,T. Stepanenko,Shakhtar Donetsk
 96,22,70,82,74,65,23,LB,L. Shaw,Manchester United
 29,28,79,56,50,67,4,CB,Z. Feddal,Real Betis
@@ -537,7 +537,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 75,33,59,73,79,74,19,CDM,L. Diarra,Paris Saint-Germain
 37,32,81,62,63,65,24,RCB,L. Perrin,AS Saint-Étienne
 37,34,80,57,52,64,31,CB,Dante,OGC Nice
-€0.00,33,81,49,55,74,4,LCB,A. Granqvist,
+0.00,33,81,49,55,74,4,LCB,A. Granqvist,
 70,32,78,73,66,84,10,ST,A. Gignac,Tigres U.A.N.L.
 46,32,82,72,62,82,27,LS,M. Gómez,VfB Stuttgart
 1,32,18,15,53,24,1,GK,I. Akinfeev,PFC CSKA Moscow
@@ -567,7 +567,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 20,30,83,72,67,75,14,LCM,Melvin Parrela,América FC (Minas Gerais)
 30,30,76,44,49,43,15,CB,Antônio Chiamuloira,Internacional
 38,34,69,78,82,52,2,RB,Maikel Catarino,Atlético Mineiro
-€0.00,26,17,15,36,24,12,GK,A. Lunev,
+0.00,26,17,15,36,24,12,GK,A. Lunev,
 84,22,77,77,77,76,23,ST,André Silva,Sevilla FC
 26,19,46,87,87,79,10,RM,C. Pulisic,Borussia Dortmund
 21,26,20,8,32,40,1,GK,M. Dmitrović,SD Eibar
@@ -676,7 +676,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 36,27,60,72,73,71,17,LCM,F. Coquelin,Valencia CF
 30,28,54,80,90,72,10,LS,Alex Teixeira,Jiangsu Suning FC
 1,28,67,78,71,76,10,RDM,A. Dzagoev,PFC CSKA Moscow
-€0.00,29,69,72,80,67,2,RB,I. Smolnikov,
+0.00,29,69,72,80,67,2,RB,I. Smolnikov,
 36,28,61,73,73,68,6,LDM,Y. M'Vila,AS Saint-Étienne
 62,29,68,82,85,84,18,LB,K. Asamoah,Inter
 32,29,13,12,43,21,1,GK,R. Zieler,VfB Stuttgart
@@ -873,7 +873,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 50,35,18,22,63,22,1,GK,C. Bravo,Manchester City
 19,33,60,74,72,85,10,RDM,Hernanes,Hebei China Fortune FC
 12,32,72,82,75,84,4,RM,K. Honda,Melbourne Victory
-€0.00,29,86,71,50,78,22,ST,A. Dzyuba,
+0.00,29,86,71,50,78,22,ST,A. Dzyuba,
 51,34,74,73,71,82,25,LB,J. Holebas,Watford
 23,31,86,66,62,82,3,CDM,Javi García,Real Betis
 19,31,9,13,50,24,1,GK,Sergio,RC Celta
@@ -952,7 +952,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 17,32,80,80,74,76,10,CAM,G. Moreno,Shanghai Greenland Shenhua FC
 10,34,60,76,77,73,10,CAM,J. Valdivia,Colo-Colo
 80,29,91,67,57,83,9,ST,A. Carroll,West Ham United
-€0.00,30,80,49,69,42,4,CB,Luís Neto,
+0.00,30,80,49,69,42,4,CB,Luís Neto,
 1,34,10,11,56,19,30,GK,A. Pyatov,Shakhtar Donetsk
 6,33,73,77,72,78,29,ST,T. Gutiérrez,Junior FC
 15,23,13,19,69,22,1,GK,Álex Remiro,Athletic Club de Bilbao
@@ -996,7 +996,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 50,34,78,76,77,80,99,ST,Vágner Love,Beşiktaş JK
 28,24,53,75,70,77,14,LM,B. Bourigeaud,Stade Rennais FC
 31,27,65,78,79,77,6,RCM,R. Soriano,Torino
-€0.00,25,51,78,80,76,7,RM,D. Kuzyaev,
+0.00,25,51,78,80,76,7,RM,D. Kuzyaev,
 26,34,57,77,69,75,14,RM,R. Sambueza,Deportivo Toluca
 43,27,62,70,78,82,22,RB,Montoya,Brighton & Hove Albion
 34,28,60,79,75,72,16,RCM,A. Poli,Bologna
@@ -1007,7 +1007,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 41,33,72,74,70,77,8,RB,D. Basta,Lazio
 54,29,58,74,75,76,20,LB,Marçal,Olympique Lyonnais
 115,22,75,81,78,76,19,ST,Munir,FC Barcelona
-€0.00,29,71,76,79,77,21,ST,G. Sio,
+0.00,29,71,76,79,77,21,ST,G. Sio,
 74,27,63,74,64,67,16,CDM,J. McCarthy,Everton
 54,28,47,80,91,74,20,LM,J. Aquino,Tigres U.A.N.L.
 29,29,54,78,75,88,17,RM,H. Pérez,RCD Espanyol
@@ -1119,7 +1119,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 26,34,72,46,46,72,23,CB,Danilo,Bologna
 35,28,75,78,86,75,20,RM,A. Ayew,Fenerbahçe SK
 47,30,81,69,47,83,11,ST,K. Mitroglou,Olympique de Marseille
-€0.00,41,12,21,50,29,1,GK,J. Villar,
+0.00,41,12,21,50,29,1,GK,J. Villar,
 29,27,54,79,83,74,7,RM,P. Herrmann,Borussia Mönchengladbach
 27,24,70,73,68,65,24,RM,D. da Costa,Eintracht Frankfurt
 20,24,49,79,82,77,15,LM,V. Fischer,FC København
@@ -1270,7 +1270,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 47,27,65,75,66,74,18,LB,D. Santon,Roma
 37,23,64,81,82,86,11,LW,M. Niang,Stade Rennais FC
 24,32,63,73,72,76,17,LB,O. Wendt,Borussia Mönchengladbach
-€0.00,35,70,69,79,71,16,CAM,C. Riveros,
+0.00,35,70,69,79,71,16,CAM,C. Riveros,
 37,20,76,50,50,48,32,LCB,F. Benković,Celtic
 4,33,53,73,85,79,10,CAM,M. Torres,Deportivo Cali
 66,31,62,74,62,74,16,RCM,M. Noble,West Ham United
@@ -1351,7 +1351,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 18,29,10,13,40,23,13,GK,Yoel,Real Valladolid CF
 3,33,19,22,62,24,12,GK,J. Cuadrado,Once Caldas
 23,25,70,77,76,76,5,RB,S. Widmer,FC Basel 1893
-€0.00,31,42,76,84,83,7,RW,B. Dzsudzsák,
+0.00,31,42,76,84,83,7,RW,B. Dzsudzsák,
 1,26,51,79,78,74,20,RM,P. Mantalos,AEK Athens
 20,35,14,11,58,37,24,GK,S. Proto,Lazio
 40,27,60,78,77,81,14,CAM,A. Mehmedi,VfL Wolfsburg
@@ -1601,7 +1601,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 26,29,76,50,35,80,5,CB,Alcalá,Girona FC
 1,27,48,80,80,77,21,LDM,Alan Patrick,Shakhtar Donetsk
 13,32,43,76,80,75,11,CM,L. Refaelov,Royal Antwerp FC
-€0.00,28,62,67,59,64,4,CDM,Y. Gazinskiy,
+0.00,28,62,67,59,64,4,CDM,Y. Gazinskiy,
 10,22,69,68,50,59,60,CDM,Palhinha,SC Braga
 20,30,71,67,68,61,24,LB,Balenziaga,Athletic Club de Bilbao
 12,29,67,65,41,63,25,CDM,R. Petrović,Sporting CP
@@ -1670,7 +1670,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 14,36,10,13,31,21,1,GK,Rafael,Cagliari
 24,29,73,69,72,76,6,RDM,F. Frei,FC Basel 1893
 21,28,52,74,74,84,7,RWB,M. Risse,1. FC Köln
-€0.00,33,74,67,62,74,15,RDM,V. Cáceres,
+0.00,33,74,67,62,74,15,RDM,V. Cáceres,
 11,29,41,76,64,87,12,LCM,Renan Bressan,GD Chaves
 22,26,41,74,71,73,6,LB,Lucas Lima,FC Nantes
 13,33,79,52,60,70,26,RCB,M. Silvestre,Empoli
@@ -1818,7 +1818,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 14,29,65,71,67,82,28,CAM,J. Toornstra,Feyenoord
 9,23,47,73,87,60,8,LCM,Paulinho,Portimonense SC
 14,25,40,82,83,77,11,LW,S. Larsson,Feyenoord
-€0.00,24,52,80,72,68,19,RW,P. Tau,
+0.00,24,52,80,72,68,19,RW,P. Tau,
 28,19,52,82,85,77,34,LW,J. Kluivert,Roma
 42,31,71,51,63,65,4,RCB,H. Ayala,Tigres U.A.N.L.
 7,23,14,8,30,21,56,GK,Miguel Silva,Vitória Guimarães
@@ -1901,12 +1901,12 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 17,22,70,65,69,43,21,RB,Martín,Deportivo Alavés
 19,30,59,75,84,76,8,LB,Tiago Pinto,MKE Ankaragücü
 10,25,44,78,72,75,32,CAM,Fernandinho,Chongqing Dangdai Lifan FC SWM Team
-€0.00,26,53,76,81,70,8,LM,C. Cueva,
+0.00,26,53,76,81,70,8,LM,C. Cueva,
 26,23,47,81,90,65,11,CM,M. Gaćinović,Eintracht Frankfurt
 11,25,72,47,52,67,3,LCB,G. Shoji,Kashima Antlers
 37,33,69,70,62,79,32,LCM,L. Rigoni,Parma
 1,25,76,69,70,69,11,ST,M. Krmenčík,Viktoria Plzeň
-€0.00,28,73,55,65,47,4,LCB,M. Mevlja,
+0.00,28,73,55,65,47,4,LCB,M. Mevlja,
 49,31,67,74,70,70,11,LB,C. Daniels,Bournemouth
 18,24,51,72,73,89,3,LB,K. Stafylidis,FC Augsburg
 23,26,80,80,61,64,18,LW,Sabin Merino,CD Leganés
@@ -1932,10 +1932,10 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 50,34,76,58,28,52,5,RCB,W. Morgan,Leicester City
 25,25,73,63,66,58,13,LB,J. Alonso,RC Celta
 22,27,50,75,81,85,22,CM,M. Wakaso,Deportivo Alavés
-€0.00,26,51,75,82,55,8,CAM,K. Traoré,
+0.00,26,51,75,82,55,8,CAM,K. Traoré,
 25,24,24,18,58,22,28,GK,Y. Mvogo,RB Leipzig
 20,34,10,9,31,23,22,GK,Kaíquão Castro,Fluminense
-€0.00,26,72,72,63,78,22,ST,K. Fofana,
+0.00,26,72,72,63,78,22,ST,K. Fofana,
 18,27,72,75,75,76,16,CAM,P. Hurtado,Atiker Konyaspor
 6,31,72,61,59,72,2,RB,D. Bocanegra,Atlético Nacional
 17,24,75,70,61,71,8,RCM,Melero,SD Huesca
@@ -1963,7 +1963,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 28,29,72,59,66,49,4,LCB,Mexer,Stade Rennais FC
 40,33,61,56,63,68,4,CDM,F. Magnanelli,Sassuolo
 15,24,74,69,73,61,4,LCB,J. Figal,Independiente
-€0.00,26,40,71,76,75,13,RM,V. Claesson,
+0.00,26,40,71,76,75,13,RM,V. Claesson,
 25,25,74,52,54,58,14,CB,F. Helander,Bologna
 23,30,59,73,74,72,20,RM,J. Gondorf,SC Freiburg
 54,26,56,80,76,74,31,RM,R. Ghezzal,Leicester City
@@ -2064,7 +2064,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 12,37,13,13,64,21,1,GK,J. Corona,Cruz Azul
 1,27,25,77,91,65,10,RM,I. Fetfatzidis,Olympiacos CFP
 22,29,71,74,78,78,18,RM,S. Romero,Independiente
-€0.00,32,65,62,71,68,13,LB,B. Jokič,
+0.00,32,65,62,71,68,13,LB,B. Jokič,
 48,29,60,76,90,76,11,LM,S. Sinclair,Celtic
 30,25,40,79,79,76,11,LW,L. Krejčí,Bologna
 18,29,64,57,65,67,6,CB,L. Orbán,Racing Club
@@ -2079,7 +2079,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 17,27,83,32,32,75,3,CB,L. Sobiech,1. FC Köln
 1,27,78,70,63,78,9,ST,Guerrero,Olympiacos CFP
 15,31,79,67,61,77,9,ST,K. Boutaïb,Yeni Malatyaspor
-€0.00,28,76,31,49,51,2,LCB,T. Hlatshwayo,
+0.00,28,76,31,49,51,2,LCB,T. Hlatshwayo,
 7,35,50,72,71,80,14,CM,M. Krohn-Dehli,Deportivo de La Coruña
 22,23,75,62,65,53,16,CDM,Lucas Torró,Eintracht Frankfurt
 22,29,71,68,73,75,9,ST,J. Vossen,Club Brugge KV
@@ -2191,7 +2191,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 46,25,65,61,48,69,16,CB,C. Coady,Wolverhampton Wanderers
 13,30,63,73,80,64,28,LCM,M. Estigarribia,Club Atlético Colón
 19,26,72,43,71,67,28,LCB,E. Sviatchenko,FC Midtjylland
-€0.00,28,45,70,80,80,6,CDM,R. Ortiz,
+0.00,28,45,70,80,80,6,CDM,R. Ortiz,
 18,26,76,50,33,72,3,RCB,Hugo Goiteira,Ceará Sporting Club
 29,20,72,74,69,78,9,ST,L. Dimata,RSC Anderlecht
 6,21,52,79,89,74,8,CM,André Horta,Los Angeles FC
@@ -2258,7 +2258,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 39,32,80,52,49,75,4,CB,Y. Kaboul,Watford
 17,32,72,74,78,69,69,ST,R. Meggiorini,Chievo Verona
 5,35,75,73,66,69,33,RB,B. Sagna,Montreal Impact
-€0.00,24,64,80,79,73,11,LM,Kahraba,
+0.00,24,64,80,79,73,11,LM,Kahraba,
 11,29,75,58,60,73,5,LCB,Rafael Vaz,Universidad de Chile
 14,26,53,61,61,82,6,RDM,Robson Denho,Sport Club do Recife
 16,29,58,80,79,73,10,RM,Renatinho,Guangzhou R&F; FC
@@ -2288,7 +2288,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 28,27,40,75,80,65,11,RW,L. Narsingh,Swansea City
 19,25,70,62,62,38,30,CB,K. Djidji,Torino
 6,34,17,14,46,20,31,GK,L. Robles,New York Red Bulls
-€0.00,28,78,73,63,75,21,CM,A. Erokhin,
+0.00,28,78,73,63,75,21,CM,A. Erokhin,
 8,26,54,66,76,63,15,CDM,G. Shinnie,Aberdeen
 27,26,62,78,72,72,26,RM,L. Rizzo,Foggia
 15,19,64,66,65,34,6,RCB,I. Konaté,RB Leipzig
@@ -2346,7 +2346,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 17,20,42,77,82,58,14,RM,Melendo,RCD Espanyol
 35,29,74,70,62,51,3,LB,E. Pieters,Stoke City
 19,33,68,71,70,59,16,LB,Luisinho,SD Huesca
-€0.00,29,63,55,43,55,5,CB,A. Semenov,
+0.00,29,63,55,43,55,5,CB,A. Semenov,
 22,25,76,48,65,22,4,RCB,Ramalho,Girona FC
 18,24,73,53,72,58,20,LB,Kévin Rodrigues,Real Sociedad
 15,23,73,66,72,74,23,ST,K. Piątek,Genoa
@@ -2362,7 +2362,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 17,24,47,66,69,62,26,LM,M. Rits,Club Brugge KV
 1,26,78,62,70,72,19,RCB,S. Deli,SK Slavia Praha
 24,26,69,74,72,68,27,RB,H. Traoré,Stade Rennais FC
-€0.00,30,73,50,63,64,14,LCB,P. Aguedar,
+0.00,30,73,50,63,64,14,LCB,P. Aguedar,
 1,31,62,55,63,51,15,RCB,Crespo,PAOK
 23,28,13,17,52,24,33,GK,Rafael,Sampdoria
 10,27,71,44,65,62,3,CB,Bigas,SD Eibar
@@ -2398,7 +2398,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 43,31,67,73,83,71,18,RM,I. Sosa,Tigres U.A.N.L.
 51,28,55,75,70,82,11,CAM,M. Ekici,Fenerbahçe SK
 27,30,64,68,50,74,12,RWB,A. Nyom,CD Leganés
-€0.00,26,64,76,85,80,11,RW,K. Konaté,
+0.00,26,64,76,85,80,11,RW,K. Konaté,
 17,30,80,68,65,80,20,RS,F. Đorđević,Chievo Verona
 11,29,11,12,47,17,13,GK,E. Room,PSV
 21,26,41,80,79,80,33,LM,T. Usami,Fortuna Düsseldorf
@@ -2412,7 +2412,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 11,27,28,78,81,65,24,CAM,Tana,UD Las Palmas
 1,22,48,74,72,72,16,CAM,A. Miranchuk,Lokomotiv Moscow
 45,30,72,67,77,72,7,ST,L. Grabban,Nottingham Forest
-€0.00,30,73,44,54,43,13,CB,I. Koné,
+0.00,30,73,44,54,43,13,CB,I. Koné,
 1,28,49,71,67,79,5,LDM,J. Hušbauer,SK Slavia Praha
 24,26,75,47,53,48,5,LCB,A. Soumaoro,LOSC Lille
 13,30,83,68,60,75,39,RS,Patric,Sanfrecce Hiroshima
@@ -2442,7 +2442,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 21,28,72,77,78,74,9,ST,J. Kodjia,Aston Villa
 20,27,42,74,88,68,8,LWB,A. Oyongo,Montpellier HSC
 9,29,39,17,52,21,1,GK,S. Bolat,Royal Antwerp FC
-€0.00,23,31,76,89,73,20,LW,A. Mitriţă,
+0.00,23,31,76,89,73,20,LW,A. Mitriţă,
 13,27,54,74,84,72,16,LB,A. Behich,PSV
 25,24,48,79,77,83,21,LS,O. Tannane,FC Utrecht
 11,32,69,68,57,71,38,LDM,F. Haroun,Royal Antwerp FC
@@ -2451,7 +2451,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 18,19,61,75,76,77,34,LM,J. Larsen,Borussia Dortmund
 13,30,72,54,66,73,15,LCB,F. Bastians,Tianjin TEDA FC
 34,24,37,71,71,72,8,RCM,J. Ralls,Cardiff City
-€0.00,28,46,75,66,68,20,CM,S. Vilakazi,
+0.00,28,46,75,66,68,20,CM,S. Vilakazi,
 9,30,9,8,32,21,1,GK,Victorino Magela,Bahia
 33,22,75,60,63,71,23,RB,Marc Navarro,Watford
 9,33,80,70,74,75,23,ST,K. Kamara,Vancouver Whitecaps FC
@@ -2513,7 +2513,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,33,76,50,69,65,5,LCB,A. Correa,Once Caldas
 9,33,16,14,53,23,19,GK,R. Salin,Sporting CP
 46,19,48,70,51,77,5,CM,F. Valverde,Real Madrid
-€0.00,26,63,78,79,69,10,LM,M. Etxeberría,
+0.00,26,63,78,79,69,10,LM,M. Etxeberría,
 11,25,55,75,81,66,5,LB,R. Haps,Feyenoord
 5,26,16,12,21,19,21,GK,Cho Hyun Woo,Daegu FC
 14,31,69,75,72,75,28,CAM,Y. Gourcuff,Dijon FCO
@@ -2654,7 +2654,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 12,34,56,72,81,74,10,CAM,Pietrson Mendes,Bahia
 9,27,43,69,72,62,7,RM,Salvi Sánchez,Cádiz CF
 8,28,73,71,79,75,9,CM,E. Pavez,Colo-Colo
-€0.00,26,29,72,83,63,10,CAM,I. Kovács,
+0.00,26,29,72,83,63,10,CAM,I. Kovács,
 12,32,71,76,81,78,16,LW,Nildo Petrolina,CD Aves
 16,32,82,67,61,79,9,ST,Y. Seleznyov,Akhisar Belediyespor
 34,29,58,68,73,72,15,LWB,C. Löwe,Huddersfield Town
@@ -2679,7 +2679,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 20,25,72,69,65,76,9,ST,M. Ishak,1. FC Nürnberg
 21,26,66,64,68,68,23,LB,N. Gießelmann,Fortuna Düsseldorf
 12,30,71,58,81,80,6,RDM,Luis Couprins,Atlético Paranaense
-€0.00,31,63,61,74,43,13,LCB,F. Kudryashov,
+0.00,31,63,61,74,43,13,LCB,F. Kudryashov,
 19,27,63,71,73,72,11,ST,S. Zoller,1. FC Köln
 33,20,40,77,85,60,13,RM,D. Brooks,Bournemouth
 27,26,78,46,63,56,25,CB,M. Hawsawi,Al Ahli
@@ -2687,7 +2687,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 8,21,68,73,78,66,4,RB,J. St. Juste,Feyenoord
 6,29,68,73,67,73,2,RB,João Aurélio,Moreirense FC
 13,26,48,73,70,69,14,CM,J. Marié,Dijon FCO
-€0.00,26,61,57,74,57,2,RB,R. Benzar,
+0.00,26,61,57,74,57,2,RB,R. Benzar,
 31,28,67,67,65,81,22,CB,G. Sertic,Olympique de Marseille
 7,30,43,74,80,68,10,LM,R. Philippoteaux,AJ Auxerre
 31,21,44,75,75,55,8,LCM,Gerson,Fiorentina
@@ -2723,7 +2723,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 10,25,71,71,71,72,20,ST,M. Santos,CD Leganés
 1,28,48,75,75,72,13,LM,J. Kopic,Viktoria Plzeň
 31,28,43,73,81,73,24,LM,N. Al Abed,Al Hilal
-€0.00,31,69,62,59,80,13,CAM,C. Keşerü,
+0.00,31,69,62,59,80,13,CAM,C. Keşerü,
 12,18,50,79,65,66,20,RM,Ferrán Torres,Valencia CF
 13,24,12,14,55,20,27,GK,S. Kapino,SV Werder Bremen
 8,27,57,72,86,68,16,LB,O. Opazo,Colo-Colo
@@ -2826,7 +2826,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 22,29,61,62,75,72,14,LB,Raul García,CD Leganés
 25,24,47,80,91,68,17,CF,G. Caprari,Sampdoria
 7,24,55,76,81,69,10,CAM,Diego Lopes,Rio Ave FC
-€0.00,32,15,18,28,12,1,GK,M. Banguera,
+0.00,32,15,18,28,12,1,GK,M. Banguera,
 17,29,80,37,42,47,14,RCB,O. Gonzalez,Club Atlas
 6,25,65,75,90,73,11,CM,Costinha,Vitória de Setúbal
 9,19,57,75,81,78,15,LCM,E. Palacios,River Plate
@@ -2848,7 +2848,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 11,31,64,75,70,84,9,LS,Cristiano,Kashiwa Reysol
 19,24,54,74,72,85,6,CM,K. Möhwald,SV Werder Bremen
 8,29,68,60,59,74,9,ST,A. Rodríguez,Minnesota United FC
-€0.00,25,55,61,84,50,6,CDM,J. Góralski,
+0.00,25,55,61,84,50,6,CDM,J. Góralski,
 9,33,66,65,65,77,7,RCM,S. Larsson,AIK
 14,27,38,77,93,60,77,RM,D. Ndongala,KRC Genk
 25,32,18,17,38,22,1,GK,S. Carson,Derby County
@@ -2912,7 +2912,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 13,34,14,12,51,23,13,GK,Riesgo,SD Eibar
 41,30,45,70,69,78,16,RCM,J. Howson,Middlesbrough
 10,34,73,56,49,77,37,LCB,J. Van Damme,Royal Antwerp FC
-€0.00,31,75,69,67,80,9,RS,M. Martins,
+0.00,31,75,69,67,80,9,RS,M. Martins,
 2,20,17,14,69,25,1,GK,W. Faríñez,Millonarios FC
 15,28,67,71,67,68,12,LB,B. Dibassy,Amiens SC
 6,32,71,45,62,61,4,LCB,T. Reginiussen,Rosenborg BK
@@ -2983,7 +2983,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 23,27,74,71,69,83,20,ST,A. Ujah,1. FSV Mainz 05
 14,29,75,64,47,72,11,ST,A. Kravets,Kayserispor
 13,28,73,64,55,69,33,CB,Z. Tomašević,KV Oostende
-€0.00,30,15,28,38,25,18,GK,M. Borjan,
+0.00,30,15,28,38,25,18,GK,M. Borjan,
 21,21,58,77,67,68,7,CDM,S. Lukić,Torino
 34,25,73,64,56,43,6,RCB,C. Goldson,Rangers FC
 16,27,52,62,59,80,14,LCM,Rubén Alcaraz,Real Valladolid CF
@@ -2998,7 +2998,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 12,23,58,77,85,65,16,CF,L. Janson,Toronto FC
 12,23,58,71,84,66,5,LB,B. Bolingoli,SK Rapid Wien
 6,25,72,67,67,76,14,ST,Thiago Santana,Santa Clara
-€0.00,28,57,72,75,72,19,LB,K. Rausch,
+0.00,28,57,72,75,72,19,LB,K. Rausch,
 28,28,11,21,54,24,1,GK,N. Etheridge,Cardiff City
 8,33,42,65,68,75,16,CDM,Aitor Sanz,CD Tenerife
 8,25,75,46,63,53,46,CB,Frederico Venâncio,Vitória Guimarães
@@ -3036,7 +3036,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 17,32,56,78,84,68,20,RM,M. Heller,SV Darmstadt 98
 19,27,73,71,68,64,6,CM,V. Pajot,Angers SCO
 11,23,52,74,87,71,22,LM,Y. Asad,DC United
-€0.00,26,80,33,32,49,3,RB,Y. Banana,
+0.00,26,80,33,32,49,3,RB,Y. Banana,
 13,34,43,78,70,72,14,CAM,W. Montillo,Club Atlético Tigre
 19,22,57,72,79,77,11,LS,L. Waldschmidt,SC Freiburg
 15,27,64,67,67,73,5,CM,Y. Makarenko,RSC Anderlecht
@@ -3049,7 +3049,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 11,30,18,16,31,26,1,GK,Pierrino Faria,Santos
 8,30,71,72,67,59,8,LDM,Adrián González,Málaga CF
 19,28,72,40,40,40,2,LCB,F. Tobio,Deportivo Toluca
-€0.00,32,74,30,56,59,6,LCB,R. Sigurðsson,
+0.00,32,74,30,56,59,6,LCB,R. Sigurðsson,
 23,31,58,67,68,75,14,LB,K. Reichel,1. FC Union Berlin
 10,34,13,18,62,17,1,GK,Nivo Serpinho,Chapecoense
 19,27,72,36,46,44,2,CB,M. Wagué,Udinese
@@ -3102,7 +3102,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 11,27,66,73,73,72,10,CM,R. Bezus,Sint-Truidense VV
 4,35,14,11,61,18,1,GK,Shin Hwa Yong,Suwon Samsung Bluewings
 17,30,73,56,59,37,29,CB,R. Genevois,Stade Malherbe Caen
-€0.00,24,70,58,78,70,2,CB,M. Degenek,
+0.00,24,70,58,78,70,2,CB,M. Degenek,
 13,34,52,76,89,69,5,LB,Oswaldito Cuba,Chapecoense
 10,31,17,16,37,24,23,GK,C. Rigamonti,Belgrano de Córdoba
 18,30,73,50,41,62,25,RCB,Wallace,Göztepe SK
@@ -3169,7 +3169,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 37,25,63,74,87,67,14,ST,B. Reid,Cardiff City
 17,25,40,77,84,69,18,RM,Hervías,SD Eibar
 5,36,16,10,41,10,1,GK,L. Pocrnjic,Club Atlético Aldosivi
-€0.00,24,66,47,58,61,5,CB,S. Ingason,
+0.00,24,66,47,58,61,5,CB,S. Ingason,
 17,29,71,50,59,60,75,CB,T. Heurtaux,MKE Ankaragücü
 20,25,49,77,91,63,88,LW,G. Wikheim,FC Midtjylland
 18,23,47,78,77,74,29,CAM,Valdivia,Al Ittihad
@@ -3207,7 +3207,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,24,63,73,77,58,15,RB,V. García,Vitória Guimarães
 14,28,57,72,75,67,14,RB,F. Sánchez,Estudiantes de La Plata
 7,31,55,66,70,76,8,CDM,C. Carmona,Colo-Colo
-€0.00,27,68,73,83,68,9,ST,B. Sigurðarson,
+0.00,27,68,73,83,68,9,ST,B. Sigurðarson,
 8,28,53,72,83,75,19,LDM,Y. Yotún,Orlando City SC
 8,26,67,70,76,76,9,ST,G. Zardes,Columbus Crew SC
 48,31,58,86,68,68,7,ST,J. Ménez,Club América
@@ -3281,7 +3281,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 18,34,67,52,66,61,13,LDM,Otávinho Vila,Cruzeiro
 26,24,68,62,64,80,15,ST,A. Mendy,FC Girondins de Bordeaux
 6,19,58,77,85,68,14,LW,D. Malen,PSV
-€0.00,31,65,48,65,73,14,CB,V. Granat,
+0.00,31,65,48,65,73,14,CB,V. Granat,
 5,21,39,75,82,68,10,CAM,P. Aránguiz,FC Dallas
 12,26,61,61,62,68,13,LDM,Sandelas Júnior,Santos
 17,34,72,54,66,65,3,RCB,O. Hawsawi,Al Wehda
@@ -3502,7 +3502,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 43,22,41,77,89,64,4,CM,J. Mauri,Milan
 14,31,79,34,52,45,30,RCB,L. Sigali,Racing Club
 11,28,78,53,44,71,17,CDM,I. Seck,KRC Genk
-€0.00,22,56,76,86,69,17,RM,D. Gonzo,
+0.00,22,56,76,86,69,17,RM,D. Gonzo,
 9,29,15,10,36,19,1,GK,Su Boyang,Guizhou Hengfeng FC
 17,27,72,59,52,63,3,CB,L. Caldirola,SV Werder Bremen
 4,31,58,74,89,73,9,LM,G. Hauche,Millonarios FC
@@ -3561,7 +3561,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,23,46,74,81,71,14,RM,P. Arriola,DC United
 15,21,66,73,81,59,17,RM,E. Buendía,Norwich City
 8,34,74,68,60,71,27,CDM,G. Gillet,Racing Club de Lens
-€0.00,18,77,33,72,37,3,RCB,B. Méndez,
+0.00,18,77,33,72,37,3,RCB,B. Méndez,
 7,24,75,55,63,45,4,RCB,A. Briseño,CD Feirense
 9,33,70,71,71,69,7,ST,S. Sáez,Universidad Católica
 12,26,56,75,82,63,5,RM,F. Zuqui,Estudiantes de La Plata
@@ -3624,13 +3624,13 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,24,58,74,61,66,5,LDM,E. Gnahoré,Amiens SC
 11,32,60,76,79,72,8,LM,N. Bertolo,Club Atlético Banfield
 16,29,13,14,58,19,22,GK,K. Nordfeldt,Swansea City
-€0.00,28,69,71,74,71,17,RW,R. Varga,
+0.00,28,69,71,74,71,17,RW,R. Varga,
 17,25,67,68,65,59,20,RB,S. Yago,Toulouse Football Club
 18,34,61,67,78,74,14,CDM,Hugo Rubiães,Fluminense
 10,25,72,57,64,67,5,RCB,J. Okore,Aalborg BK
 18,26,74,73,70,75,18,ST,Y. Bammou,Stade Malherbe Caen
-€0.00,26,44,66,80,52,6,LB,B. Caicedo,
-€0.00,22,20,16,54,19,12,GK,A. Silbeira,
+0.00,26,44,66,80,52,6,LB,B. Caicedo,
+0.00,22,20,16,54,19,12,GK,A. Silbeira,
 32,24,64,71,68,70,25,CAM,N. Powell,Wigan Athletic
 8,29,75,57,49,69,3,CB,O. Alanís,Real Oviedo
 20,26,47,71,81,61,7,RCM,Carleto Costinha,Fluminense
@@ -3709,7 +3709,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 16,26,78,65,61,71,11,ST,I. Kiese Thelin,Bayer 04 Leverkusen
 9,22,77,50,66,49,6,LCB,T. Cardona,Godoy Cruz
 14,24,68,69,72,67,16,RM,C. Fassnacht,BSC Young Boys
-€0.00,34,45,75,86,74,16,RW,Y. Ouattara,
+0.00,34,45,75,86,74,16,RW,Y. Ouattara,
 9,28,68,68,80,69,7,RS,Quique,Deportivo de La Coruña
 14,29,14,15,53,24,34,GK,M. Günok,Medipol Başakşehir FK
 26,25,73,61,67,66,3,LCB,T. Kalas,Bristol City
@@ -3735,7 +3735,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 29,28,62,66,68,67,14,RB,H. Dalsgaard,Brentford
 16,37,69,68,43,74,18,CDM,G. Barry,West Bromwich Albion
 10,33,75,45,31,52,33,LCB,J. Bottinelli,Unión de Santa Fe
-€0.00,27,18,16,21,19,12,GK,D. Dibusz,
+0.00,27,18,16,21,19,12,GK,D. Dibusz,
 14,25,67,67,66,73,4,CDM,I. Diomandé,Stade Malherbe Caen
 24,26,53,67,80,68,12,LB,Y. Al Shahrani,Al Hilal
 14,26,67,67,72,66,20,LB,N. Boilesen,FC København
@@ -3785,7 +3785,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 16,27,53,68,80,64,21,CDM,L. Reyes,Club Atlas
 32,33,69,66,65,83,26,RB,P. Bardsley,Burnley
 14,34,59,61,68,55,5,LB,Jonas Damasto,Paraná
-€0.00,38,80,52,60,66,4,RCB,P. Da Silva,
+0.00,38,80,52,60,66,4,RCB,P. Da Silva,
 14,23,51,73,86,68,17,LM,M. Rodríguez,U.N.A.M.
 51,26,80,67,61,73,11,ST,J. Hugill,Middlesbrough
 10,32,66,46,65,31,4,RCB,Thiago Cionek,SPAL
@@ -3897,7 +3897,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 9,24,48,69,74,66,27,RS,K. Schindler,Holstein Kiel
 7,29,55,68,56,66,8,LCM,Sin Jin Ho,FC Seoul
 6,22,59,73,87,62,17,LM,L. Haraslín,Lechia Gdańsk
-€0.00,28,68,57,73,42,5,RB,A. Fiola,
+0.00,28,68,57,73,42,5,RB,A. Fiola,
 18,20,44,72,83,73,42,LCM,X. Schlager,FC Red Bull Salzburg
 13,32,82,71,33,74,11,RS,N. Jelavić,Guizhou Hengfeng FC
 1,28,36,74,83,74,11,LM,T. Ben Haim,Sparta Praha
@@ -3942,7 +3942,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 9,31,72,35,50,44,26,CB,Jorge Teixeira,Sint-Truidense VV
 23,24,48,73,87,61,38,CDM,R. Woods,Stoke City
 5,26,58,71,77,63,19,LCM,S. Martinsson Ngouali,Hammarby IF
-€0.00,25,70,38,39,42,2,LCB,W. Ángel,
+0.00,25,70,38,39,42,2,LCB,W. Ángel,
 10,26,58,72,80,70,10,CAM,D. Villalpando,Club Necaxa
 1,26,56,68,74,62,16,LM,M. Šitum,Dinamo Zagreb
 21,26,46,64,78,59,14,CM,T. Carroll,Swansea City
@@ -3970,7 +3970,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 10,30,75,34,32,58,3,RCB,Allison Sireo,América FC (Minas Gerais)
 6,29,45,73,75,73,18,RM,Z. Stieber,DC United
 25,24,66,72,64,74,19,LW,S. Berahino,Stoke City
-€0.00,35,67,58,59,70,16,CDM,O. Skúlason,
+0.00,35,67,58,59,70,16,CDM,O. Skúlason,
 1,22,42,68,79,67,22,LB,L. Koutris,Olympiacos CFP
 31,29,72,72,69,68,11,CF,M. Pektemek,Beşiktaş JK
 5,27,59,63,69,60,11,CDM,R. Schüller,Minnesota United FC
@@ -4120,7 +4120,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 9,24,68,75,60,79,16,LM,A. Bjelica,KV Oostende
 13,33,75,45,45,46,3,CB,G. Alcoba,Santos Laguna
 21,28,75,59,65,70,11,ST,J. Rhodes,Norwich City
-€0.00,30,45,72,71,68,10,CAM,J. Campos,
+0.00,30,45,72,71,68,10,CAM,J. Campos,
 9,24,38,74,67,74,20,CAM,Borja Lasso,Sevilla FC
 1,21,66,56,67,21,26,LCB,O. Cabezas,Rosario Central
 11,27,62,74,76,77,7,ST,G. Sunu,BB Erzurumspor
@@ -4190,7 +4190,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 16,26,61,71,71,75,15,RDM,J. Bostock,Toulouse Football Club
 12,21,12,15,37,62,32,GK,V. Milinković-Savić,SPAL
 8,33,66,69,52,66,22,CM,G. Peñalba,UD Las Palmas
-€0.00,24,44,71,82,75,15,RCM,L. Kleinheisler,
+0.00,24,44,71,82,75,15,RCM,L. Kleinheisler,
 8,27,72,72,75,72,29,LDM,R. Aliendro,Atlético Tucumán
 3,32,50,67,75,75,20,RAM,L. Seijas,Independiente Santa Fe
 13,31,72,67,70,72,3,LB,L. Fuentes,Club Tijuana
@@ -4216,7 +4216,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 29,26,58,72,68,72,68,RCM,M. Bourabia,Sassuolo
 1,28,80,47,57,46,2,CB,L. Hejda,Viktoria Plzeň
 11,25,72,34,48,46,13,CB,E. Bergström,FC Utrecht
-€0.00,32,43,77,76,78,18,LW,Shikabala,
+0.00,32,43,77,76,78,18,LW,Shikabala,
 6,21,43,76,79,72,30,RB,Aurélio Buta,Royal Antwerp FC
 6,27,67,72,78,71,70,LM,C. Penilla,New England Revolution
 12,22,67,69,64,78,21,RM,D. Cools,Club Brugge KV
@@ -4256,7 +4256,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 10,30,53,63,67,60,14,LDM,Alex das Freitas,América FC (Minas Gerais)
 7,29,57,65,74,64,23,LWB,Mossa,Real Oviedo
 25,23,61,61,82,68,14,ST,J. Marriott,Derby County
-€0.00,30,58,73,81,78,20,RM,J. Riojas,
+0.00,30,58,73,81,78,20,RM,J. Riojas,
 5,23,69,58,49,63,16,CDM,L. Fröde,MSV Duisburg
 1,24,74,53,54,68,28,CB,L. Pokorný,SK Slavia Praha
 11,22,73,52,49,66,19,RCB,D. Vavro,FC København
@@ -4273,7 +4273,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 14,22,73,77,78,70,14,RW,D. Rotariu,AZ Alkmaar
 15,17,45,76,79,64,7,RM,Paulinho,Bayer 04 Leverkusen
 6,27,49,71,74,56,10,CAM,Juan Carlos,UD Almería
-€0.00,29,59,66,68,24,19,LB,M. Korhut,
+0.00,29,59,66,68,24,19,LB,M. Korhut,
 5,23,58,60,69,68,6,CDM,S. Piette,Montreal Impact
 10,33,61,62,51,73,10,LDM,N. Ortigoza,Rosario Central
 5,33,15,11,43,20,1,GK,António Filipe,GD Chaves
@@ -4297,7 +4297,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 18,29,43,68,77,77,7,CAM,D. Kaiser,Brøndby IF
 3,31,39,68,76,70,14,LCM,D. Silva,Millonarios FC
 21,29,66,77,76,78,99,LM,A. Nwakaeme,Trabzonspor
-€0.00,26,72,60,61,73,9,ST,J. Sambenito,
+0.00,26,72,60,61,73,9,ST,J. Sambenito,
 7,29,46,49,63,69,6,RDM,Toribio,AD Alcorcón
 11,30,76,43,46,56,22,LCB,M. Yumlu,Akhisar Belediyespor
 6,26,72,56,51,70,6,RCB,A. Milošević,AIK
@@ -4320,7 +4320,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,28,52,49,33,68,5,RDM,Garrido,Cádiz CF
 8,18,72,56,53,64,2,LCB,E. N'Dicka,Eintracht Frankfurt
 13,19,55,73,78,66,25,CM,J. González,Monterrey
-€0.00,22,65,53,70,60,13,RB,M. Suárez,
+0.00,22,65,53,70,60,13,RB,M. Suárez,
 14,29,63,67,67,36,3,LB,Y. Andreu,Angers SCO
 17,24,58,67,78,68,11,LB,J. Obita,Reading
 9,30,58,60,66,72,58,LB,Z. Erdal,Sivasspor
@@ -4386,7 +4386,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,31,12,11,38,16,27,GK,J. Dahlin,Malmö FF
 17,34,30,67,68,79,17,CAM,Martin Cordeia,Internacional
 4,29,16,14,54,26,16,GK,A. Oukidja,FC Metz
-€0.00,22,69,76,78,72,19,ST,B. Angulo,
+0.00,22,69,76,78,72,19,ST,B. Angulo,
 6,28,13,11,42,17,30,GK,S. Burchert,SpVgg Greuther Fürth
 5,22,65,53,57,49,4,CB,Nélson Monte,Rio Ave FC
 6,23,40,73,78,68,10,CAM,D. Rojas,Universidad Católica
@@ -4666,7 +4666,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,33,68,42,51,60,4,RCB,A. Wilkinson,Sydney FC
 4,31,52,69,87,66,5,RB,Mano,Vitória de Setúbal
 7,28,68,67,64,73,10,RDM,B. Rienstra,SC Heerenveen
-€0.00,23,54,71,74,73,11,LCM,Z. Kalmár,
+0.00,23,54,71,74,73,11,LCM,Z. Kalmár,
 14,23,58,60,78,65,18,CDM,P. Aquino,Club León
 13,31,73,63,64,68,14,RDM,R. Faty,MKE Ankaragücü
 6,26,72,57,60,60,4,RCB,M. te Wierik,FC Groningen
@@ -4706,7 +4706,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 23,22,64,68,70,77,8,RCM,J. Brownhill,Bristol City
 8,34,63,22,68,56,4,LCB,Heitinho Zanon,Bahia
 8,24,76,69,59,68,9,LW,J. Bolingi,Royal Antwerp FC
-€0.00,35,12,13,29,12,23,GK,E. Conde,
+0.00,35,12,13,29,12,23,GK,E. Conde,
 30,31,77,63,61,76,16,ST,T. Hemed,Queens Park Rangers
 9,23,65,56,58,44,15,CB,L. Krajnc,Frosinone
 8,28,15,15,41,17,21,GK,P. Terracciano,Empoli
@@ -4822,7 +4822,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,38,11,12,35,23,25,GK,M. Kelemen,Jagiellonia Białystok
 11,30,76,41,59,62,4,LCB,Lourival Dinisco,Paraná
 11,30,7,7,66,14,12,GK,Jairo Farnias,Internacional
-€0.00,27,64,49,62,69,15,LDM,P. Anton,
+0.00,27,64,49,62,69,15,LDM,P. Anton,
 8,27,66,65,53,64,2,RB,S. Popov,Kasimpaşa SK
 6,28,51,70,78,71,8,LS,Y. Kakitani,Cerezo Osaka
 9,29,61,72,60,75,26,RCM,E. Rolland,KV Kortrijk
@@ -4875,7 +4875,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,32,66,66,51,75,3,LCB,R. Ziegler,FC Dallas
 2,32,32,71,59,67,27,LM,A. Ábalos,Club Deportes Temuco
 8,29,71,68,62,75,88,RCB,V. Sarı,Kasimpaşa SK
-€0.00,28,13,22,41,37,13,GK,D. Keet,
+0.00,28,13,22,41,37,13,GK,D. Keet,
 7,28,65,58,59,57,38,CDM,N. Leyes,Atlético Tucumán
 6,21,71,52,61,65,12,CB,P. Hatzidiakos,AZ Alkmaar
 12,20,69,72,63,66,27,CM,J. Makengo,OGC Nice
@@ -4944,7 +4944,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 13,27,66,69,75,72,9,ST,R. Fernández,Al Fayha
 1,24,55,56,58,59,40,CDM,A. Timofeev,Spartak Moscow
 7,27,68,70,67,74,9,ST,Rodrigo Pinho,Clube Sport Marítimo
-€0.00,20,35,73,80,70,17,RM,H. Vaca,
+0.00,20,35,73,80,70,17,RM,H. Vaca,
 17,21,73,28,46,37,3,LCB,J. Worrall,Rangers FC
 4,31,48,73,91,62,11,LW,A. El Jadeyaoui,Grenoble Foot 38
 5,28,57,67,67,78,7,RM,M. Eriksson,San Jose Earthquakes
@@ -4990,7 +4990,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 10,26,48,73,63,54,7,RAM,Alam Basteirinho,Santos
 3,20,62,73,68,69,16,LW,Lee Seung Woo,Hellas Verona
 5,29,70,49,61,66,4,CB,N. Gorosito,Albacete BP
-€0.00,24,54,67,73,74,9,CM,M. Trávník,
+0.00,24,54,67,73,74,9,CM,M. Trávník,
 11,26,72,63,60,81,20,RCM,G. Gardner,Birmingham City
 7,30,57,69,70,66,14,CM,Lee Seung Gi,Jeonbuk Hyundai Motors
 22,29,70,65,58,69,3,LB,C. Forsyth,Derby County
@@ -5017,7 +5017,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 14,27,44,71,89,68,77,RM,M. D'Alessandro,Udinese
 5,27,73,41,57,35,40,LCB,R. Windbichler,Ulsan Hyundai FC
 8,29,63,62,71,62,3,LB,C. Corvalán,Unión de Santa Fe
-€0.00,37,72,41,59,74,,,R. Raldes,
+0.00,37,72,41,59,74,,,R. Raldes,
 23,32,70,70,50,87,16,CM,C. Adam,Stoke City
 12,34,67,72,81,56,8,CAM,Renaldo Justinho,Botafogo
 4,21,53,72,81,76,19,LM,Y. Wissa,FC Lorient
@@ -5050,7 +5050,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,32,70,55,61,67,18,RCB,Christian Fernández,Real Oviedo
 8,25,43,74,87,67,7,LM,F. Fragapane,Unión de Santa Fe
 1,29,58,68,71,70,7,RM,A. Chipciu,Sparta Praha
-€0.00,22,72,65,65,66,9,ST,E. Koulouris,
+0.00,22,72,65,65,66,9,ST,E. Koulouris,
 17,30,64,77,73,52,17,RW,Raphael Paneira,Grêmio
 15,23,46,75,80,65,11,RW,C. Espinoza,Boca Juniors
 12,25,58,66,78,45,26,LB,C. Borja,Deportivo Toluca
@@ -5060,7 +5060,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 13,28,58,74,79,68,7,LM,F. Hasani,Al Raed
 10,21,59,73,80,79,6,CM,J. Sambia,Montpellier HSC
 4,21,67,59,57,52,21,RCB,Jorge Sáenz,CD Tenerife
-€0.00,20,43,74,62,55,21,CAM,P. Mahlambi,
+0.00,20,43,74,62,55,21,CAM,P. Mahlambi,
 9,30,67,72,74,67,17,RS,D. McGoldrick,Sheffield United
 8,30,62,58,65,60,4,RCB,G. Kagelmacher,KV Kortrijk
 2,25,11,13,34,24,1,GK,N. Leali,Perugia
@@ -5081,7 +5081,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,33,50,70,59,66,4,LCB,B. Safari,Malmö FF
 2,20,70,51,49,51,30,CB,M. Varnier,Atalanta
 9,26,59,72,83,71,9,LS,B. Kadrii,Odense Boldklub
-€0.00,30,57,69,90,66,4,RB,J. Paredes,
+0.00,30,57,69,90,66,4,RB,J. Paredes,
 5,24,43,71,74,77,20,LS,Aitor García,CF Rayo Majadahonda
 4,23,69,68,64,76,33,ST,L. Spalvis,1. FC Kaiserslautern
 5,31,60,70,75,73,33,LM,M. Stoppelkamp,MSV Duisburg
@@ -5125,7 +5125,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 12,19,69,66,68,71,45,LM,V. Osimhen,Sporting de Charleroi
 4,19,45,72,83,60,47,CAM,Mauro Júnior,PSV
 1,32,73,52,77,62,3,LB,M. Casierra,Deportivo Pasto
-€0.00,30,65,33,40,36,3,CB,L. Cáceda,
+0.00,30,65,33,40,36,3,CB,L. Cáceda,
 6,22,66,64,63,65,2,RB,B. Nieuwkoop,Feyenoord
 19,20,42,70,88,56,14,LM,M. Cash,Nottingham Forest
 8,30,75,26,30,38,23,RCB,P. Huntington,Preston North End
@@ -5244,7 +5244,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,23,38,68,85,60,6,RCM,B. Henning,FC Wacker Innsbruck
 12,26,72,63,66,48,21,CDM,O. Petrák,1. FC Nürnberg
 14,28,74,29,32,62,4,LCB,B. Röcker,Brøndby IF
-€0.00,28,46,67,73,63,20,LM,R. Cardozo,
+0.00,28,46,67,73,63,20,LM,R. Cardozo,
 1,21,61,73,83,71,99,RW,M. Duelund,Dynamo Kyiv
 9,26,66,74,67,69,20,ST,M. Seuntjens,AZ Alkmaar
 10,30,60,65,78,72,8,LAM,Nilson Padilho,Chapecoense
@@ -5271,11 +5271,11 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,26,56,72,71,55,17,CM,J. Roa,Independiente Santa Fe
 24,22,70,59,55,47,6,CDM,K. N'Doram,AS Monaco
 10,20,74,45,54,42,25,LCB,J. Torunarigha,Hertha BSC
-€0.00,32,49,63,72,74,17,CM,C. Deac,
+0.00,32,49,63,72,74,17,CM,C. Deac,
 9,22,68,65,56,69,20,LS,Marc Gual,Real Zaragoza
 8,22,68,70,73,72,18,LM,B. Samudio,Çaykur Rizespor
 7,31,71,28,55,64,27,CB,S. Bassong,Peterborough United
-€0.00,32,63,73,69,69,16,RB,S. Manolev,
+0.00,32,63,73,69,69,16,RB,S. Manolev,
 9,27,11,10,32,22,1,GK,A. Letellier,ESTAC Troyes
 8,24,64,70,87,70,39,ST,I. Ezekiel,KV Kortrijk
 5,22,46,76,83,60,20,RM,C. Oliveira Souza,MSV Duisburg
@@ -5386,7 +5386,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,27,43,70,75,67,27,CDM,A. Kali,NAC Breda
 24,32,62,66,64,64,4,LCB,D. Fox,Nottingham Forest
 3,26,57,69,78,71,23,ST,L. Castro,Independiente Medellín
-€0.00,22,68,53,47,42,14,CB,I. Nedelcearu,
+0.00,22,68,53,47,42,14,CB,I. Nedelcearu,
 2,37,13,13,49,12,1,GK,A. Orión,Colo-Colo
 9,23,34,73,73,73,11,CAM,D. Milošević,Atiker Konyaspor
 17,21,60,69,61,68,58,CM,J. Minala,Lazio
@@ -5431,7 +5431,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,34,13,13,29,23,22,GK,L. Mazzoni,Livorno
 4,27,45,72,81,70,10,RDM,Y. M'Changama,Grenoble Foot 38
 27,25,63,69,58,41,26,LB,T. Mings,Bournemouth
-€0.00,35,68,49,34,70,14,RCB,K. Árnason,
+0.00,35,68,49,34,70,14,RCB,K. Árnason,
 9,21,66,70,78,65,19,RS,U. Bozok,Nîmes Olympique
 7,37,68,62,43,79,8,CDM,Borja Fernández,Real Valladolid CF
 5,28,64,71,72,69,29,RM,H. Bazile,Le Havre AC
@@ -5504,7 +5504,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,23,51,67,77,66,18,RM,G. Ward,Ipswich Town
 6,27,49,69,59,80,10,LM,Campillo,CD Lugo
 4,32,20,17,42,23,1,GK,E. Bush,Montreal Impact
-€0.00,22,14,17,46,26,22,GK,J. Silbeira,
+0.00,22,14,17,46,26,22,GK,J. Silbeira,
 5,29,65,61,58,52,23,CB,F. Jungwirth,San Jose Earthquakes
 8,25,46,73,76,69,57,CAM,I. Bel Hassani,AZ Alkmaar
 5,29,56,70,72,76,26,RCM,André Santos,Os Belenenses
@@ -5542,7 +5542,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 47,22,57,67,75,66,3,RB,Sergi Palencia,FC Girondins de Bordeaux
 1,28,66,48,66,52,3,CB,V. Lampropoulos,AEK Athens
 3,26,45,70,77,56,32,CAM,L. Tremolada,Brescia
-€0.00,30,53,63,79,62,16,CDM,M. Pátkai,
+0.00,30,53,63,79,62,16,CDM,M. Pátkai,
 13,31,60,67,60,69,4,LDM,F. Al Ansari,Al Faisaly
 4,33,68,52,57,46,29,LDM,José Semedo,Vitória de Setúbal
 1,23,70,66,65,76,9,ST,G. Giakoumakis,AEK Athens
@@ -5586,7 +5586,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 14,27,59,76,88,66,8,LM,Luisinho,Al Faisaly
 15,18,58,74,74,76,99,LDM,E. Elmas,Fenerbahçe SK
 9,18,66,18,52,42,6,CB,N. Pérez,Argentinos Juniors
-€0.00,28,62,72,60,75,9,ST,D. Ndlovu,
+0.00,28,62,72,60,75,9,ST,D. Ndlovu,
 5,24,64,74,83,65,9,CF,Y. Reyna,Vancouver Whitecaps FC
 15,21,66,66,72,68,99,ST,D. Kownacki,Sampdoria
 9,26,47,69,64,84,8,CM,H. Faik,SV Zulte-Waregem
@@ -5594,7 +5594,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,27,14,20,50,12,1,GK,D. Rudd,Preston North End
 6,30,46,69,69,71,25,RCM,Bruno Gallo,GD Chaves
 5,27,70,44,38,36,19,CB,M. Peybernès,Real Sporting de Gijón
-€0.00,31,72,58,59,69,13,ST,D. Böde,
+0.00,31,72,58,59,69,13,ST,D. Böde,
 12,25,70,64,59,78,21,CB,T. Schröck,FC Ingolstadt 04
 17,21,59,75,80,64,37,CAM,I. Brown,Leeds United
 5,23,69,63,76,77,13,ST,J. Morris,Seattle Sounders FC
@@ -5613,7 +5613,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,21,58,68,79,64,27,CM,P. Galdames,Vélez Sarsfield
 7,25,69,77,73,69,9,RW,O. Benítez,Argentinos Juniors
 9,21,64,70,60,74,17,CDM,E. Löwen,1. FC Nürnberg
-€0.00,33,50,67,73,72,7,RB,A. Fathi,
+0.00,33,50,67,73,72,7,RB,A. Fathi,
 7,27,78,65,73,70,40,ST,I. Sylla,Queens Park Rangers
 11,33,68,55,43,76,5,CB,A. Tziolis,Al Fayha
 3,24,66,38,64,51,4,RB,J. Une Larsson,Djurgårdens IF
@@ -5655,7 +5655,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 9,28,56,65,57,73,20,ST,R. Munsy,BB Erzurumspor
 4,25,49,70,78,69,16,RCM,E. Hussain,Molde FK
 4,30,58,71,61,68,10,ST,Magno,Jeju United FC
-€0.00,32,67,53,63,45,5,LCB,N. Bodurov,
+0.00,32,67,53,63,45,5,LCB,N. Bodurov,
 5,26,53,69,74,46,18,CAM,Álvaro Peña,AD Alcorcón
 8,20,42,72,84,26,15,LB,B. Riveros,FC Basel 1893
 1,26,54,68,77,68,10,CAM,J. Villota,Deportivo Pasto
@@ -5692,7 +5692,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,22,57,65,66,65,33,LB,A. Spörle,Club Atlético Banfield
 3,33,43,67,77,70,10,CAM,J. Rodríguez,CD Palestino
 11,23,33,78,90,63,5,CM,B. Halimi,Brøndby IF
-€0.00,26,65,69,81,67,7,LM,O. Ruisalvo,
+0.00,26,65,69,81,67,7,LM,O. Ruisalvo,
 4,20,58,62,72,49,4,LB,K. Mac Allister,Argentinos Juniors
 4,30,64,68,67,64,22,RB,V. Rüfli,Paris FC
 15,24,51,71,88,70,45,CAM,A. Aseri,Al Ahli
@@ -5776,7 +5776,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,37,68,66,56,70,4,CM,M. Brighi,Empoli
 4,30,66,67,89,73,12,ST,L. Boussaha,Grenoble Foot 38
 4,27,73,51,50,45,4,RCB,D. Bomheuer,MSV Duisburg
-€0.00,32,16,19,38,19,1,GK,B. Sangaré,
+0.00,32,16,19,38,19,1,GK,B. Sangaré,
 9,26,79,44,36,40,31,LCB,Y. Cabral,Atlético Tucumán
 4,26,75,50,61,75,12,CB,S. Breitkreuz,FC Erzgebirge Aue
 4,26,52,70,69,79,11,RM,K. Rowe,New England Revolution
@@ -5794,7 +5794,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,30,13,14,28,13,13,GK,D. Verhulst,Sporting Lokeren
 6,23,57,70,76,70,25,LB,Núrio,Sporting de Charleroi
 4,23,63,36,41,49,22,CB,S. Sparagna,Boavista FC
-€0.00,34,9,10,25,48,1,GK,H. Halldórsson,
+0.00,34,9,10,25,48,1,GK,H. Halldórsson,
 7,26,58,58,63,53,19,RDM,M. Prietl,DSC Arminia Bielefeld
 5,27,68,68,81,73,10,LM,Nono,AD Alcorcón
 5,27,58,64,67,74,9,ST,J. Berget,New York City FC
@@ -5882,7 +5882,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 10,27,68,39,32,47,24,LCB,E. Saveljich,UD Almería
 7,27,44,59,78,36,20,RB,Tang Miao,Guangzhou R&F; FC
 14,22,48,73,76,67,8,LW,J. Mees,1. FC Union Berlin
-€0.00,26,12,11,31,15,12,GK,C. Cáceda,
+0.00,26,12,11,31,15,12,GK,C. Cáceda,
 4,25,42,67,67,68,22,RCM,O. Fernández,Puebla FC
 8,30,57,71,81,66,16,RM,Jeffrén,Grasshopper Club Zürich
 7,23,46,73,85,78,19,LM,K. Manneh,FC St. Gallen
@@ -5894,7 +5894,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 8,26,65,67,54,71,9,ST,T. Jurić,FC Luzern
 2,26,68,58,41,36,6,CB,F. Scaglia,Cittadella
 6,32,62,63,76,71,7,ST,David Rodríguez,CA Osasuna
-€0.00,33,53,63,60,88,8,CDM,H. Kekana,
+0.00,33,53,63,60,88,8,CDM,H. Kekana,
 8,27,66,44,59,23,17,CB,C. Dibon,SK Rapid Wien
 8,21,54,64,76,54,28,LB,R. Petretta,FC Basel 1893
 18,30,49,68,88,54,21,CM,M. Scozzarella,Parma
@@ -5912,7 +5912,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,27,55,68,71,70,10,LM,Ricardo Lopes,Jeonbuk Hyundai Motors
 5,24,74,63,57,71,29,ST,P. Hamel,FC Lorient
 5,31,57,67,75,68,29,CDM,K. Mączyński,Legia Warszawa
-€0.00,23,64,38,60,52,15,CB,M. Hamdy,
+0.00,23,64,38,60,52,15,CB,M. Hamdy,
 3,24,70,51,60,76,4,CB,R. Pröpper,Heracles Almelo
 13,32,77,64,48,76,17,RCM,C. N'Doye,Angers SCO
 8,27,77,64,60,67,37,LS,Fernando Karanga,Henan Jianye FC
@@ -5920,8 +5920,8 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,20,65,61,56,45,22,LB,E. Cobbaut,RSC Anderlecht
 4,31,70,55,29,69,5,RCB,M. Dąbrowski,Zagłębie Lubin
 4,27,56,69,81,71,9,LM,F. Picault,Philadelphia Union
-€0.00,28,11,13,48,21,22,GK,R. Romo,
-€0.00,29,68,63,72,59,3,LB,A. Corzo,
+0.00,28,11,13,48,21,22,GK,R. Romo,
+0.00,29,68,63,72,59,3,LB,A. Corzo,
 5,21,53,67,68,45,24,RB,L. Dickmann,SPAL
 4,23,54,67,83,51,2,RB,Luis Pérez,CD Tenerife
 11,20,61,80,75,63,8,RM,A. Barkok,Fortuna Düsseldorf
@@ -5939,10 +5939,10 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 12,26,62,20,63,60,15,CB,Paulo Fajarda,Cruzeiro
 5,31,71,51,47,65,6,RCB,Germán,Granada CF
 1,26,51,57,70,54,3,LWB,B. Idowu,Lokomotiv Moscow
-€0.00,28,66,39,54,53,4,RCB,B. Mkhwanazi,
+0.00,28,66,39,54,53,4,RCB,B. Mkhwanazi,
 5,35,75,60,62,69,9,ST,Toché,Real Oviedo
 4,21,45,70,69,74,22,RM,Hélder Ferreira,Vitória Guimarães
-€0.00,29,65,63,74,59,8,LCM,G. Mandjeck,
+0.00,29,65,63,74,59,8,LCM,G. Mandjeck,
 22,26,47,69,81,60,5,CDM,S. Morsy,Wigan Athletic
 4,24,45,68,69,70,8,LM,T. Antonis,Melbourne Victory
 2,23,52,68,74,61,7,LM,M. Duffy,Dundalk
@@ -5987,7 +5987,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,26,67,26,63,57,4,RCB,J. Czerwiński,Piast Gliwice
 6,28,45,66,85,68,12,LM,R. Vilchis,Monarcas Morelia
 3,25,68,35,33,69,5,LCB,G. Valsvik,Eintracht Braunschweig
-€0.00,28,75,63,55,71,15,ST,A. Giannou,
+0.00,28,75,63,55,71,15,ST,A. Giannou,
 6,29,72,39,41,53,14,RCB,J. Hobbs,Bolton Wanderers
 4,30,59,69,67,72,19,ST,R. Gíslason,SV Sandhausen
 13,29,69,60,65,56,12,LB,C. M'Bengue,AS Saint-Étienne
@@ -6016,11 +6016,11 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 9,25,46,70,72,65,8,LM,N. Thomsen,FC København
 3,37,11,14,36,28,1,GK,D. Boer,PEC Zwolle
 9,25,37,69,81,66,20,RM,D. Hernández,San Lorenzo de Almagro
-€0.00,24,65,70,75,69,19,ST,A. Šporar,
+0.00,24,65,70,75,69,19,ST,A. Šporar,
 11,29,51,68,69,71,13,LM,J. Jantscher,SK Sturm Graz
 5,24,49,66,66,70,44,CM,E. Huws,Ipswich Town
 10,28,62,67,72,70,8,LCM,U. Matić,FK Austria Wien
-€0.00,27,45,69,60,66,12,LM,A. Ashraf,
+0.00,27,45,69,60,66,12,LM,A. Ashraf,
 11,28,68,69,69,71,4,LDM,W. Bakhashwain,Al Wehda
 3,23,34,77,84,63,10,LW,H. Aiesh,Östersunds FK
 15,23,57,68,70,70,11,LS,S. Prevljak,FC Red Bull Salzburg
@@ -6331,7 +6331,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,29,40,66,58,72,7,CAM,J. Fontaine,Le Havre AC
 7,29,59,61,61,78,7,LB,L. Schmitz,Wolfsberger AC
 3,28,56,68,65,74,23,LB,Joãozinho,CD Tondela
-€0.00,33,65,44,58,33,4,LCB,C. Moţi,
+0.00,33,65,44,58,33,4,LCB,C. Moţi,
 6,31,52,63,77,67,29,RB,R. Strauß,1. FC Heidenheim 1846
 17,25,52,72,85,72,21,ST,F. Gulbrandsen,FC Red Bull Salzburg
 3,24,53,64,76,76,17,RCM,C. Edwards,Östersunds FK
@@ -6353,7 +6353,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 18,23,40,72,79,70,34,LW,M. Stefaniak,VfL Wolfsburg
 3,23,57,71,83,69,17,LS,Sergio Santos,Audax Italiano
 11,22,51,72,93,67,26,RM,A. Kalulu,FC Basel 1893
-€0.00,28,71,33,59,44,3,CB,Vinícius,
+0.00,28,71,33,59,44,3,CB,Vinícius,
 10,32,11,13,24,20,41,GK,D. Stockdale,Birmingham City
 10,30,12,10,64,25,13,GK,A. Blanco,Pachuca
 20,28,49,67,66,67,18,CM,J. Butterfield,Derby County
@@ -6406,13 +6406,13 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 10,24,58,66,76,65,6,RDM,J. Pi,Stade Brestois 29
 4,21,67,61,60,65,6,LB,S. Vegas,Monarcas Morelia
 3,28,59,61,71,74,8,RDM,Hélder Tavares,CD Tondela
-€0.00,34,14,12,42,23,16,GK,S. Ekramy,
+0.00,34,14,12,42,23,16,GK,S. Ekramy,
 5,23,68,44,39,47,44,RCB,Júlio César,CD Nacional
 3,29,61,69,82,66,9,RM,M. Mustacchio,Perugia
 3,30,19,14,63,18,21,GK,Kim Jin Hyeon,Cerezo Osaka
 5,27,60,72,77,57,3,LB,Héctor,CD Tenerife
 7,29,20,24,52,23,14,GK,Wang Dalei,Shandong Luneng TaiShan FC
-€0.00,29,64,70,78,80,14,RB,G. Lovrencsics,
+0.00,29,64,70,78,80,14,RB,G. Lovrencsics,
 3,24,14,18,34,19,1,GK,Rui Silva,Granada CF
 6,31,23,17,44,12,99,GK,F. Öztürk,Akhisar Belediyespor
 8,28,64,70,71,74,11,ST,J. Ramis,Vélez Sarsfield
@@ -6510,7 +6510,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,24,14,11,37,23,16,GK,P. Tsintotas,AEK Athens
 16,29,50,63,67,68,16,LB,M. Ponce,Guadalajara
 5,33,71,32,32,31,4,CB,D. Novaretti,Querétaro
-€0.00,25,70,32,59,48,2,CB,A. Lang,
+0.00,25,70,32,59,48,2,CB,A. Lang,
 10,22,35,72,82,54,22,RW,S. Villa,Boca Juniors
 6,23,55,59,66,70,3,LB,B. Nastić,KRC Genk
 4,19,67,56,58,61,45,LCB,S. Bornauw,RSC Anderlecht
@@ -6538,10 +6538,10 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,24,43,73,84,67,15,LM,J. Cavallaro,Club Atlético Tigre
 17,20,64,61,69,69,38,CDM,H. Choudhury,Leicester City
 7,30,75,61,58,75,8,ST,B. Pitman,Portsmouth
-€0.00,27,10,17,65,36,22,GK,A. Kovácsik,
+0.00,27,10,17,65,36,22,GK,A. Kovácsik,
 4,28,74,69,65,69,20,ST,K. Kawamata,Júbilo Iwata
 8,25,51,68,61,73,16,CB,M. Martínez,Racing Club
-€0.00,25,64,55,62,72,18,RCM,J. Orejuela,
+0.00,25,64,55,62,72,18,RCM,J. Orejuela,
 4,26,66,23,44,37,4,LCB,L. Caicedo,Tiburones Rojos de Veracruz
 4,19,70,63,77,61,34,ST,D. Vente,Feyenoord
 7,25,48,73,69,79,21,LM,M. Thiel,1. FC Heidenheim 1846
@@ -6598,7 +6598,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,35,54,71,85,70,10,RM,K. Ziani,US Orléans Loiret Football
 5,24,19,19,38,24,17,GK,H. Jurjus,De Graafschap
 4,23,35,73,78,64,7,RM,Rochinha,Boavista FC
-€0.00,20,59,53,68,56,6,RB,C. Manea,
+0.00,20,59,53,68,56,6,RB,C. Manea,
 6,23,58,75,75,61,2,RB,O. Kakabadze,FC Luzern
 4,33,68,62,34,59,24,LCB,J. Choplin,AC Ajaccio
 6,28,38,70,92,62,8,CAM,C. Pasquato,Legia Warszawa
@@ -6638,12 +6638,12 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 9,32,70,65,71,66,15,RB,G. Flores,Cruz Azul
 8,26,46,71,89,75,19,RM,A. Bangoura,Rayo Vallecano
 5,36,64,67,73,70,17,RM,P. Lugüercio,Estudiantes de La Plata
-€0.00,19,53,68,69,67,8,CAM,I. Hagi,
+0.00,19,53,68,69,67,8,CAM,I. Hagi,
 4,21,48,65,86,52,5,LWB,M. Pedersen,FC Nordsjælland
 7,25,66,51,51,45,3,CB,J. Lawrence,RSC Anderlecht
 2,28,53,69,76,65,32,CAM,A. Mazzarani,US Salernitana 1919
 5,25,66,60,69,45,6,RCB,A. O'Connor,Bradford City
-€0.00,28,52,63,77,31,18,RB,M. Bagayoko,
+0.00,28,52,63,77,31,18,RB,M. Bagayoko,
 2,36,52,64,68,70,7,CDM,M. Pedersen,Tromsø IL
 8,28,36,69,78,64,10,CAM,Danilo,Antalyaspor
 2,26,64,61,71,56,15,RB,P. Ngawa,Perugia
@@ -6678,7 +6678,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,26,56,64,71,67,22,LB,F. Mladenović,Lechia Gdańsk
 14,25,14,11,27,20,30,GK,C. Ripley,Accrington Stanley
 5,23,59,65,56,75,8,CM,R. Andrich,1. FC Heidenheim 1846
-€0.00,30,60,42,70,26,15,LB,V. Bozhikov,
+0.00,30,60,42,70,26,15,LB,V. Bozhikov,
 6,20,68,55,53,75,39,ST,K. Sierhuis,Ajax
 10,25,65,68,70,62,11,ST,A. Escoto,Deportivo Toluca
 2,23,54,64,70,45,29,RB,C. Rodríguez,CD Everton de Viña del Mar
@@ -6716,7 +6716,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,23,56,74,60,61,11,RS,Carlinhos,FC Lugano
 3,22,67,62,69,68,27,ST,C. Baird,Real Salt Lake
 8,28,69,54,52,65,36,CDM,W. Kamavuaka,SV Darmstadt 98
-€0.00,29,63,42,63,56,2,RCB,A. Gabr,
+0.00,29,63,42,63,56,2,RCB,A. Gabr,
 6,30,58,61,69,70,8,CM,J. Drachmann,Odense Boldklub
 3,34,74,33,48,60,5,CB,Jorge García,CF Rayo Majadahonda
 3,23,38,71,86,77,18,CAM,R. Gall,Malmö FF
@@ -6724,7 +6724,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 12,32,65,39,47,47,5,CB,P. McShane,Reading
 8,23,56,64,79,61,17,CAM,Eugeni,Albacete BP
 28,21,59,63,52,54,23,LB,Reguilón,Real Madrid
-€0.00,32,12,20,46,24,21,GK,J. Carvallo,
+0.00,32,12,20,46,24,21,GK,J. Carvallo,
 5,32,17,12,58,10,15,GK,T. Acar,Sivasspor
 8,23,47,69,74,63,40,RM,E. Berko,SG Dynamo Dresden
 6,25,58,59,72,67,8,CDM,G. Gil Romero,Belgrano de Córdoba
@@ -6735,7 +6735,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,23,47,73,78,70,30,LS,L. Jallow,US Salernitana 1919
 6,28,60,62,57,55,2,RB,M. Alphonse,Dijon FCO
 2,22,34,73,73,54,14,CAM,K. Salazar,Atlético Bucaramanga
-€0.00,33,65,67,73,61,,,J. Arce,
+0.00,33,65,67,73,61,,,J. Arce,
 3,23,42,75,76,69,7,LCM,E. Fernández,CF Rayo Majadahonda
 8,26,45,66,75,71,8,RCM,R. Benatelli,SG Dynamo Dresden
 2,30,75,66,58,71,21,ST,R. Becerra,Deportes Iquique
@@ -6803,7 +6803,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,33,61,66,78,77,26,LM,A. Garofalo,Venezia FC
 3,29,52,59,72,70,8,LCM,Sunny,Real Salt Lake
 9,24,50,67,65,65,17,RB,T. Kane,Hull City
-€0.00,26,63,62,72,70,4,RB,O. Gaber,
+0.00,26,63,62,72,70,4,RB,O. Gaber,
 2,28,69,34,47,43,30,LCB,L. Payares,Deportes Tolima
 3,26,69,31,60,46,6,LCB,G. Nauber,MSV Duisburg
 2,30,66,64,61,71,32,ST,A. Montalto,US Cremonese
@@ -6840,7 +6840,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,28,55,66,61,62,14,LDM,Fausto Tienza,Extremadura UD
 2,24,59,53,61,47,8,RCB,A. Robles,San Luis de Quillota
 6,31,66,36,43,71,19,CB,B. Lambot,KSV Cercle Brugge
-€0.00,25,47,68,80,79,11,LB,N. Bancu,
+0.00,25,47,68,80,79,11,LB,N. Bancu,
 12,29,76,51,46,76,20,ST,S. Kutschke,FC Ingolstadt 04
 5,21,42,73,71,59,26,LM,Pejiño,Sevilla FC
 4,29,53,66,66,64,20,CM,A. Djoum,Heart of Midlothian
@@ -6865,7 +6865,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,25,56,64,60,68,18,CM,R. Tunnicliffe,Millwall
 4,24,66,61,50,43,5,CB,David García,CA Osasuna
 6,34,72,65,81,66,15,RB,Nosberto Vila,Sport Club do Recife
-€0.00,29,10,18,48,28,16,GK,J. Koprivec,
+0.00,29,10,18,48,28,16,GK,J. Koprivec,
 2,34,48,59,71,71,28,CM,J. Fuentes,Deportes Iquique
 2,29,67,72,82,55,7,LM,D. Gómez,Atlético Huila
 2,23,69,52,49,56,13,RCB,Thiago Martins,Yokohama F. Marinos
@@ -6899,7 +6899,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 13,26,69,26,63,43,13,RCB,A. Asiri,Al Ittihad
 1,25,74,28,33,39,34,LCB,E. Palomeque,Deportivo Cali
 2,31,70,40,52,25,13,CB,N. Cherubin,Hellas Verona
-€0.00,26,19,13,54,15,23,GK,P. Iliev,
+0.00,26,19,13,54,15,23,GK,P. Iliev,
 2,26,34,65,88,64,19,RM,R. Farfán,Club Deportes Temuco
 2,29,68,57,54,29,4,LCB,G. Mencia,CD Universidad de Concepción
 2,21,59,53,61,65,25,RCB,F. Dagerstål,IFK Norrköping
@@ -7120,7 +7120,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,20,52,67,74,60,11,LB,J. Lewis,Norwich City
 11,31,63,58,53,73,34,CB,F. Schönheim,1. FC Union Berlin
 4,25,51,64,76,66,2,LB,Nuno Campos,CD Nacional
-€0.00,24,59,68,65,52,6,RDM,S. Slavchev,
+0.00,24,59,68,65,52,6,RDM,S. Slavchev,
 2,26,47,62,58,71,29,CM,P. Corral,Deportes Iquique
 3,31,69,26,79,34,37,CB,Kim Won Il,Jeju United FC
 4,26,56,67,90,74,21,LM,A. Luna,Tiburones Rojos de Veracruz
@@ -7151,7 +7151,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,29,64,66,67,77,7,ST,G. Barnes,Colorado Rapids
 4,19,68,66,61,63,99,ST,D. Jovanovic,Sporting Lokeren
 8,24,62,68,63,76,29,ST,L. Kehinde,MKE Ankaragücü
-€0.00,25,71,76,68,75,9,ST,J. Cifuente,
+0.00,25,71,76,68,75,9,ST,J. Cifuente,
 1,24,28,67,80,62,20,LM,A. Castro,Alianza Petrolera
 5,24,43,66,78,59,19,LM,T. Schwede,SC Paderborn 07
 4,27,67,42,34,76,5,LCB,J. van der Linden,Sydney FC
@@ -7250,17 +7250,17 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,34,65,32,32,52,27,CB,H. Lybohy,Nîmes Olympique
 3,35,76,64,76,68,18,RS,S. MacLean,Heart of Midlothian
 2,24,69,53,64,60,3,RCB,Fábio Cardoso,Santa Clara
-€0.00,25,49,73,78,72,8,RM,T. Nedelev,
+0.00,25,49,73,78,72,8,RM,T. Nedelev,
 5,27,60,65,64,71,28,RB,Mesquita,CD Feirense
 2,21,50,64,71,56,14,LB,Nouhou,Seattle Sounders FC
 6,30,58,62,68,64,54,LB,M. Uslu,Çaykur Rizespor
 4,33,63,63,68,72,8,LDM,L. Noriega,Tiburones Rojos de Veracruz
-€0.00,26,64,48,70,53,15,CB,S. Xulu,
+0.00,26,64,48,70,53,15,CB,S. Xulu,
 2,27,11,20,29,23,91,GK,D. Mitov Nilsson,IFK Norrköping
 16,22,59,71,71,73,19,ST,Héctor,Málaga CF
 7,25,50,68,79,57,17,LM,Wu Xinghan,Shandong Luneng TaiShan FC
 4,25,71,67,68,66,16,ST,D. Badji,FC Dallas
-€0.00,32,71,52,44,52,4,CB,T. Tzimopoulos,
+0.00,32,71,52,44,52,4,CB,T. Tzimopoulos,
 5,25,68,56,62,67,14,LWB,B. Pittón,Unión de Santa Fe
 5,30,56,72,68,75,9,RW,G. Ghazaryan,GD Chaves
 4,29,47,59,59,72,15,RCM,Eduardo Neto,Nagoya Grampus
@@ -7490,7 +7490,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,28,15,14,54,12,13,GK,B. Amos,Millwall
 8,23,61,67,75,69,13,LM,N. Moumi Ngamaleu,BSC Young Boys
 2,31,59,67,77,65,16,CAM,J. Aguirre,Independiente Santa Fe
-€0.00,28,53,69,52,41,18,LB,S. Hlanti,
+0.00,28,53,69,52,41,18,LB,S. Hlanti,
 14,29,19,23,50,12,27,GK,D. Button,Brighton & Hove Albion
 9,30,46,72,78,58,7,RM,K. Özer,MKE Ankaragücü
 4,27,57,68,73,60,20,ST,Álvaro,UD Almería
@@ -7534,7 +7534,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 20,20,68,66,69,69,26,CDM,C. Connolly,Wigan Athletic
 2,21,53,65,60,64,27,CDM,Pedrosa,Vitória de Setúbal
 8,20,66,68,69,65,11,ST,W. Kanga,Angers SCO
-€0.00,23,65,65,55,45,17,CB,M. Madisha,
+0.00,23,65,65,55,45,17,CB,M. Madisha,
 5,32,64,61,68,62,15,CDM,J. Mousinho,Oxford United
 2,31,61,33,43,42,4,RCB,N. Boogaard,Newcastle Jets
 5,24,45,72,65,63,10,CM,G. Moncur,Barnsley
@@ -7589,7 +7589,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,24,47,71,83,73,7,CAM,S. Maier,VfL Bochum 1848
 3,27,68,51,34,59,22,CB,A. Maund,Vancouver Whitecaps FC
 5,31,61,63,70,67,9,LS,A. Le Fondre,Sydney FC
-€0.00,27,66,54,46,59,15,CB,H. Eyjólfsson,
+0.00,27,66,54,46,59,15,CB,H. Eyjólfsson,
 13,26,63,68,77,79,7,LCM,L. Bacuna,Reading
 3,26,68,56,68,44,13,RCB,N. Röseler,VVV-Venlo
 2,27,62,36,58,45,16,LCB,B. Meccariello,Lecce
@@ -7602,7 +7602,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,22,72,51,58,61,15,LCB,I. Conté,Chamois Niortais Football Club
 8,30,70,46,48,74,16,RCB,M. Bostwick,Lincoln City
 2,26,62,63,61,57,8,RCM,A. Settembrini,Cittadella
-€0.00,22,59,74,71,59,11,LW,A. Modiba,
+0.00,22,59,74,71,59,11,LW,A. Modiba,
 3,24,38,70,84,70,22,LM,K. Vollmann,SV Sandhausen
 4,25,70,63,64,70,23,ST,K. Przybyłko,Philadelphia Union
 5,25,66,62,59,76,19,ST,Mario Barco,Cádiz CF
@@ -7638,7 +7638,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,23,55,67,66,62,27,RB,M. Vojvoda,Royal Excel Mouscron
 4,27,65,63,66,68,11,RS,S. Iljutcenko,MSV Duisburg
 8,21,60,70,71,63,22,CM,M. Pessina,Atalanta
-€0.00,29,55,69,61,68,16,RM,H. Calcaterra,
+0.00,29,55,69,61,68,16,RM,H. Calcaterra,
 3,25,17,14,33,23,23,GK,F. Bednarek,SC Heerenveen
 24,21,59,72,74,68,11,LB,D. Mitchell,Heart of Midlothian
 3,25,11,18,36,20,22,GK,A. Salazar,CD Universidad de Concepción
@@ -7671,7 +7671,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,29,44,52,64,43,27,CDM,G. Saunders,Envigado FC
 2,26,63,52,40,78,4,RCB,M. Bjørnbak,FK Bodø/Glimt
 7,24,64,41,65,46,4,CB,H. Çinemre,Göztepe SK
-€0.00,24,65,49,47,54,3,RCB,M. James,
+0.00,24,65,49,47,54,3,RCB,M. James,
 4,30,67,61,55,66,7,CDM,R. Griffiths,Melbourne City FC
 2,35,8,6,39,14,1,GK,Deng Xiaofei,Chongqing Dangdai Lifan FC SWM Team
 9,25,72,62,68,64,28,ST,M. Zúñiga,Cruz Azul
@@ -7828,7 +7828,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,23,69,47,62,47,4,CB,Luan Peres,Club Brugge KV
 4,21,45,71,70,61,18,RM,A. Lioi,Rosario Central
 3,27,75,57,32,50,15,LCB,M. López,Cádiz CF
-€0.00,28,67,66,63,66,17,CDM,E. Vega,
+0.00,28,67,66,63,66,17,CDM,E. Vega,
 3,27,39,68,67,59,14,CAM,A. Messaoud,Excelsior
 3,29,59,66,65,73,20,ST,L. Silva,Real Salt Lake
 2,23,15,16,34,25,16,GK,J. Højbjerg,Esbjerg fB
@@ -7875,7 +7875,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,24,60,63,66,66,27,RB,C. Brunner,DSC Arminia Bielefeld
 3,24,56,65,72,66,9,LCM,P. Lipski,Lechia Gdańsk
 3,22,12,18,59,20,41,GK,André Ferreira,CD Aves
-€0.00,22,55,70,71,69,12,RM,A. Ribera,
+0.00,22,55,70,71,69,12,RM,A. Ribera,
 3,28,9,12,64,24,13,GK,Assis,Boavista FC
 12,25,61,73,74,65,28,CM,G. Hernández,Club Necaxa
 2,29,53,71,80,67,15,LW,J. Pineda,CD Universidad de Concepción
@@ -7904,7 +7904,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,31,61,48,60,63,24,CDM,T. Ayasse,Stade Brestois 29
 1,21,45,63,65,59,28,LB,D. Zúñiga,CD Everton de Viña del Mar
 1,36,14,29,43,19,1,GK,L. Załuska,Pogoń Szczecin
-€0.00,27,70,65,62,71,9,ST,R. Vasilev,
+0.00,27,70,65,62,71,9,ST,R. Vasilev,
 5,24,56,69,78,65,34,RS,M. Schmerböck,Wolfsberger AC
 3,36,62,60,62,66,22,CB,Y. Abe,Urawa Red Diamonds
 2,20,59,57,61,58,18,CB,J. Ruiz,FC Sochaux-Montbéliard
@@ -7921,7 +7921,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,29,62,70,75,69,32,RM,Rudy,Waterford FC
 4,21,61,45,52,34,4,CB,S. Knežević,FC Luzern
 2,32,66,62,66,73,20,RM,M. Heider,VfL Osnabrück
-€0.00,33,59,44,68,51,,,L. Gutiérrez,
+0.00,33,59,44,68,51,,,L. Gutiérrez,
 11,25,17,11,50,32,25,GK,J. Alnwick,Scunthorpe United
 3,26,59,66,71,63,2,RB,S. O'Donnell,Kilmarnock
 11,21,52,73,69,69,20,RW,S. Edera,Torino
@@ -7989,7 +7989,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,24,65,64,61,73,20,RDM,M. Poletanović,Jagiellonia Białystok
 3,26,46,67,80,64,8,CF,J. Hopcutt,Östersunds FK
 3,29,46,66,78,71,88,LM,P. Małecki,Wisła Kraków
-€0.00,31,19,16,24,23,1,GK,B. Mitrev,
+0.00,31,19,16,24,23,1,GK,B. Mitrev,
 5,31,60,52,64,66,16,CDM,Qin Sheng,Dalian YiFang FC
 4,34,56,64,57,75,60,CDM,Marco Soares,CD Feirense
 2,32,33,71,90,66,29,LCM,Romário,Kalmar FF
@@ -8056,11 +8056,11 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,24,43,64,76,64,44,CAM,Luís Cortez,Vitória de Setúbal
 2,35,12,14,55,23,13,GK,M. Hernández,Tiburones Rojos de Veracruz
 5,34,63,62,60,67,8,ST,C. Donaldson,Bolton Wanderers
-€0.00,22,61,56,57,35,19,LB,D. Mendiseca,
+0.00,22,61,56,57,35,19,LB,D. Mendiseca,
 3,31,55,58,59,69,6,CDM,S. Cronin,Minnesota United FC
 11,25,39,66,86,61,11,LM,J. Taylor,Rotherham United
 4,24,59,68,76,60,7,RM,R. Hall,Oxford United
-€0.00,29,11,11,40,11,12,GK,S. Gbohouo,
+0.00,29,11,11,40,11,12,GK,S. Gbohouo,
 4,26,59,65,74,61,25,CM,N. Yeri,Club Atlético Aldosivi
 13,23,56,66,77,58,14,LCM,M. Pinato,Venezia FC
 17,27,44,69,85,67,22,LM,M. Johnson,Sheffield United
@@ -8134,7 +8134,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,25,58,69,74,72,8,LCM,M. Ritzmaier,Wolfsberger AC
 12,24,65,60,61,42,39,LB,C. Dell'Orco,Sassuolo
 2,26,42,69,80,66,24,RW,H. Shala,IK Start
-€0.00,26,13,23,37,22,1,GK,R. Williams,
+0.00,26,13,23,37,22,1,GK,R. Williams,
 2,26,55,72,78,67,20,RM,S. Molina,Crotone
 1,22,53,67,73,33,6,LB,J. Ángulo,Deportivo Cali
 2,27,45,70,70,56,33,LM,F. Guichón,Independiente Santa Fe
@@ -8149,7 +8149,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,22,54,68,81,63,11,LM,M. Njie,Stabæk Fotball
 8,24,70,37,41,35,26,CB,S. Raggett,Rotherham United
 3,24,15,17,35,30,25,GK,P. Klewin,DSC Arminia Bielefeld
-€0.00,27,66,59,62,76,19,ST,G. Ţucudean,
+0.00,27,66,59,62,76,19,ST,G. Ţucudean,
 17,32,52,72,86,73,16,ST,J. Ward,Charlton Athletic
 4,26,42,68,67,63,7,ST,S. Jovanović,Córdoba CF
 5,29,46,66,74,75,18,LM,N. Schouterden,KAS Eupen
@@ -8272,7 +8272,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,24,40,64,67,65,4,RDM,J. von Haacke,SV Meppen
 3,21,54,58,65,64,34,CM,Jang Yun Ho,Jeonbuk Hyundai Motors
 6,20,57,55,66,66,2,RB,F. Beijmo,SV Werder Bremen
-€0.00,30,36,65,71,72,5,LDM,D. Furman,
+0.00,30,36,65,71,72,5,LDM,D. Furman,
 3,29,65,66,70,65,24,CM,Park Jong Woo,Suwon Samsung Bluewings
 3,24,58,60,59,66,6,CM,E. Lieftink,Willem II
 4,27,39,69,79,54,18,LM,Diego Aguirre,Real Zaragoza
@@ -8295,7 +8295,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,29,66,64,66,79,77,RM,E. Güral,Alanyaspor
 3,24,43,64,74,66,4,RM,Ko Seung Beom,Daegu FC
 3,19,36,78,76,52,8,RM,E. Zhegrova,KRC Genk
-€0.00,26,68,48,65,39,23,RB,B. Baráth,
+0.00,26,68,48,65,39,23,RB,B. Baráth,
 3,28,41,64,71,60,18,RCM,E. Bakker,De Graafschap
 3,22,65,73,68,69,33,LM,G. Kastaneer,NAC Breda
 7,22,62,67,80,68,17,ST,R. Rubin,Club Tijuana
@@ -8440,7 +8440,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,27,67,48,54,45,5,CDM,I. Koné,KSV Cercle Brugge
 1,32,62,63,72,65,17,CDM,J. Hernández,Deportivo Pasto
 4,26,57,66,75,57,27,RB,J. Espinoza,CD O'Higgins
-€0.00,29,63,69,59,64,8,LDM,T. Hamed,
+0.00,29,63,69,59,64,8,LDM,T. Hamed,
 2,23,60,31,75,51,25,LCB,L. Dvali,Pogoń Szczecin
 5,30,53,65,71,70,3,LM,T. Ugajin,Urawa Red Diamonds
 3,32,53,65,73,69,22,LB,Abraham,Gimnàstic de Tarragona
@@ -8553,7 +8553,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,29,57,66,77,57,10,LM,T. Rowe,Doncaster Rovers
 4,28,52,66,72,63,18,LM,M. Răduţ,Lech Poznań
 3,25,51,72,77,70,47,LM,M. Hamdaoui,De Graafschap
-€0.00,31,50,63,67,70,11,RB,I. Bandalovski,
+0.00,31,50,63,67,70,11,RB,I. Bandalovski,
 2,23,61,67,83,70,9,ST,D. Bamba,SK Brann
 2,31,64,63,74,58,16,RB,H. Berríos,CD Universidad de Concepción
 3,23,42,70,72,63,8,LM,M. El Allouchi,NAC Breda
@@ -8589,7 +8589,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,25,55,64,72,58,22,RB,C. Remmer,Molde FK
 5,24,57,67,81,59,17,RM,L. Slagveer,FC Emmen
 3,25,63,66,77,66,2,RB,F. Lewis,Willem II
-€0.00,26,58,65,62,62,8,CM,M. Rivoredo,
+0.00,26,58,65,62,62,8,CM,M. Rivoredo,
 1,30,65,64,64,54,25,CDM,J. Vásquez,Rionegro Águilas
 1,18,22,19,66,26,1,GK,M. Svilar,SL Benfica
 6,26,42,63,73,68,4,CDM,J. Jeggo,FK Austria Wien
@@ -8604,7 +8604,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,24,66,62,56,61,20,CM,S. Pasa,Cittadella
 3,25,47,69,73,59,22,RM,F. Valot,New York Red Bulls
 6,31,63,59,66,59,27,RB,J. Kalla,FC St. Pauli
-€0.00,33,67,63,72,66,11,LS,S. Chhetri,
+0.00,33,67,63,72,66,11,LS,S. Chhetri,
 3,22,41,68,71,45,28,CAM,Bicho,Deportivo de La Coruña
 9,32,57,63,64,55,29,LB,M. Parensen,1. FC Union Berlin
 3,22,50,65,73,63,17,LCM,R. Manning,Rotherham United
@@ -8762,7 +8762,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,27,48,66,84,66,10,CAM,C. Lizarazo,América de Cali
 2,36,64,70,66,75,25,RW,D. Braaten,SK Brann
 7,22,32,75,77,72,16,LM,Lazo,CD Lugo
-€0.00,23,64,56,58,59,14,LB,L. Mago,
+0.00,23,64,56,58,59,14,LB,L. Mago,
 3,28,52,68,62,70,10,RM,A. Bannink,FC Emmen
 4,26,67,52,62,39,25,CB,S. Wootton,Plymouth Argyle
 1,25,42,68,91,65,17,CAM,H. Mojica,Atlético Bucaramanga
@@ -8914,7 +8914,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,36,57,64,53,69,3,CDM,S. Ağçay,MKE Ankaragücü
 4,30,55,64,68,61,4,CM,M. Wassey,SC Paderborn 07
 4,19,55,71,61,60,14,RW,P. Micin,Udinese
-€0.00,24,14,15,46,23,1,GK,M. Crépeau,
+0.00,24,14,15,46,23,1,GK,M. Crépeau,
 4,20,36,73,75,40,17,LW,J. Helmer,AZ Alkmaar
 3,31,48,63,64,62,10,CAM,C. Doudin,Neuchâtel Xamax
 3,26,53,68,93,56,19,RM,M. Mak,Piast Gliwice
@@ -8971,7 +8971,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,27,67,64,65,71,77,LB,M. Nizam,Antalyaspor
 2,26,44,67,78,60,26,RW,B. Halloran,Adelaide United
 6,25,50,67,82,67,22,RW,P. Möschl,SG Dynamo Dresden
-€0.00,26,54,60,73,52,22,RB,M. Milec,
+0.00,26,54,60,73,52,22,RB,M. Milec,
 2,23,48,59,61,71,20,CDM,F. Bambock,Córdoba CF
 3,20,45,68,76,63,39,CAM,S. Vasiliadis,SC Paderborn 07
 3,22,53,64,67,58,2,RB,Rui Silva,Santa Clara
@@ -8998,7 +8998,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,22,49,67,76,71,8,CAM,Dálcio,Os Belenenses
 1,32,60,35,32,56,5,CB,F. Cosenza,Lecce
 6,19,57,68,70,68,20,ST,P. Daka,FC Red Bull Salzburg
-€0.00,26,48,60,65,46,21,RB,O. Ribera,
+0.00,26,48,60,65,46,21,RB,O. Ribera,
 2,27,65,66,63,61,27,LB,V. Andriuškevičius,DC United
 2,35,69,60,63,77,2,CDM,R. Clark,Columbus Crew SC
 7,24,67,62,66,45,20,CB,M. Angha,FC Sion
@@ -9114,7 +9114,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 7,22,58,52,65,58,12,LDM,J. Rodríguez,Club León
 1,37,12,14,18,23,35,GK,D. Bičík,Sparta Praha
 1,22,76,58,68,70,20,ST,N. Vergos,Panathinaikos FC
-€0.00,27,44,51,71,25,3,RB,J. Narváez,
+0.00,27,44,51,71,25,3,RB,J. Narváez,
 8,20,56,68,62,32,2,RB,R. Nyambe,Blackburn Rovers
 7,22,10,9,31,39,24,GK,E. Reséndez,Monterrey
 2,24,58,61,71,69,19,LB,D. Widgren,Östersunds FK
@@ -9151,7 +9151,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,25,62,54,60,72,4,CB,N. Næss,SC Heerenveen
 3,26,60,72,79,77,27,RM,D. Asprilla,Portland Timbers
 2,20,48,63,64,58,11,LW,K. Endo,Yokohama F. Marinos
-€0.00,33,67,51,64,56,2,RB,B. Sævarsson,
+0.00,33,67,51,64,56,2,RB,B. Sævarsson,
 13,30,50,71,71,60,27,LB,A. Acosta,Tigres U.A.N.L.
 4,25,29,70,77,59,11,CAM,S. Carruthers,Oxford United
 3,24,62,69,66,65,17,RCM,P. Mpanzu,Luton Town
@@ -9164,7 +9164,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,29,13,14,36,15,22,GK,M. Buchalik,Wisła Kraków
 1,31,76,54,47,73,33,ST,N. Proschwitz,SV Meppen
 2,29,55,59,61,30,23,LB,F. Banguero,Millonarios FC
-€0.00,29,18,13,39,23,23,GK,M. El-Shenawy,
+0.00,29,18,13,39,23,23,GK,M. El-Shenawy,
 2,32,14,7,37,21,21,GK,H. Iikura,Yokohama F. Marinos
 2,30,64,41,44,32,25,LCB,K. Gehring,SG Sonnenhof Großaspach
 3,30,62,68,88,61,18,CAM,P. McGowan,Dundee FC
@@ -9372,7 +9372,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 5,28,12,16,39,24,1,GK,Gu Chao,Jiangsu Suning FC
 1,27,62,55,68,66,9,ST,R. Caballero,Rionegro Águilas
 7,34,51,65,70,71,20,CAM,Ever Rodeiro,Botafogo
-€0.00,23,78,25,42,39,14,CB,X. Arreaga,
+0.00,23,78,25,42,39,14,CB,X. Arreaga,
 3,29,64,27,56,58,2,CB,C. Cercado,Lobos BUAP
 10,34,66,57,68,62,99,ST,H. Al Raheb,Al Shabab
 2,30,66,33,33,49,28,CB,C. Schuler,Orlando City SC
@@ -9400,7 +9400,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,21,58,67,75,69,34,CM,E. Aydoğan,Bursaspor
 1,26,59,75,72,83,26,LW,V. Pule,Orlando Pirates
 7,20,21,15,32,21,63,GK,Daniel Fuzato,Roma
-€0.00,28,63,57,52,25,5,RCB,G. Valverde,
+0.00,28,63,57,52,25,5,RCB,G. Valverde,
 7,37,11,14,29,22,24,GK,D. de Vries,Celtic
 2,30,68,38,56,35,4,LCB,A. Lithgow,Livingston FC
 4,25,15,12,42,30,1,GK,L. Nicholls,Milton Keynes Dons
@@ -9567,7 +9567,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,26,18,14,48,17,1,GK,P. Carlgren,Randers FC
 9,21,57,57,69,59,18,CDM,J. Rossiter,Rangers FC
 10,22,14,18,35,20,30,GK,S. Sy,AS Monaco
-€0.00,25,51,67,70,67,7,CM,C. Gonzáles,
+0.00,25,51,67,70,67,7,CM,C. Gonzáles,
 4,30,57,58,72,60,6,RCM,R. Nagaki,Kashima Antlers
 8,37,44,64,62,67,10,CAM,M. Al Shalhoub,Al Hilal
 2,33,68,62,47,70,9,ST,A. Le Tallec,US Orléans Loiret Football
@@ -9704,7 +9704,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,32,34,73,62,59,9,LW,H. Radetinac,Djurgårdens IF
 1,38,39,71,74,64,41,RM,M. Mikić,Shonan Bellmare
 5,32,70,58,59,65,18,ST,M. Guevgeozián,Gimnasia y Esgrima La Plata
-€0.00,25,10,8,23,18,23,GK,G. Viscarra,
+0.00,25,10,8,23,18,23,GK,G. Viscarra,
 1,19,55,40,70,43,42,CB,I. Lapshov,Lokomotiv Moscow
 2,30,68,62,72,65,44,ST,E. Fejzullahu,Kalmar FF
 3,29,67,43,42,40,26,CB,J. Ekstrand,AIK
@@ -9904,13 +9904,13 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,22,54,57,71,62,8,CM,F. Cornejo,Audax Italiano
 4,24,73,65,56,70,11,ST,A. Balboa,Belgrano de Córdoba
 10,32,75,62,61,63,16,CM,D. Edwards,Reading
-€0.00,23,54,74,79,62,,,R. Vargas,
+0.00,23,54,74,79,62,,,R. Vargas,
 2,25,60,64,77,78,2,LB,F. Rherras,AS Béziers
 1,24,15,11,36,19,25,GK,Gu Sung Yun,Hokkaido Consadole Sapporo
 2,24,56,67,73,66,23,RM,C. Mavrias,Hibernian
 3,27,49,66,74,65,90,CM,E. Martinez,Colorado Rapids
 1,24,16,16,61,16,21,GK,Lee Chang Geun,Jeju United FC
-€0.00,29,70,64,55,69,9,ST,M. Mohsen,
+0.00,29,70,64,55,69,9,ST,M. Mohsen,
 2,25,56,66,69,71,32,LWB,A. Gómez,Minnesota United FC
 3,21,58,48,56,52,14,LCB,N. Ramírez,Club Deportes Temuco
 4,24,51,68,62,63,9,RM,C. Gebauer,SCR Altach
@@ -9920,7 +9920,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,28,72,59,63,64,19,ST,C. Escobar,San Luis de Quillota
 2,23,38,63,67,65,6,CM,J. Smeets,Fortuna Sittard
 3,25,59,64,37,70,23,LM,Borja Galán,AD Alcorcón
-€0.00,22,64,69,66,65,15,CM,J. Intriago,
+0.00,22,64,69,66,65,15,CM,J. Intriago,
 2,35,39,58,60,64,20,CM,D. Sjölund,IFK Norrköping
 4,24,61,61,74,35,6,RWB,E. Bonifacio,Gimnasia y Esgrima La Plata
 2,28,13,11,36,20,20,GK,Lee Ho Seung,Jeonnam Dragons
@@ -10010,7 +10010,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,30,41,68,58,41,16,CDM,Henrique Jardinel,América FC (Minas Gerais)
 3,28,57,65,55,51,13,LB,C. Almeida,Defensa y Justicia
 3,24,50,67,65,59,6,LDM,R. Yalçın,Çaykur Rizespor
-€0.00,24,71,31,64,52,5,RCB,S. Jhingan,
+0.00,24,71,31,64,52,5,RCB,S. Jhingan,
 2,25,68,55,58,67,24,CM,Jeong Hyun Cheol,FC Seoul
 1,19,59,35,61,34,4,RCB,M. McKenzie,Philadelphia Union
 1,30,9,9,47,19,26,GK,J. Deumeland,IK Start
@@ -10104,7 +10104,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,19,63,62,74,63,28,ST,You Ju An,Suwon Samsung Bluewings
 1,37,63,51,43,65,20,RCB,M. Tacalfred,AJ Auxerre
 3,24,35,65,67,64,29,LW,I. Durmuş,FC Wacker Innsbruck
-€0.00,21,62,58,74,64,20,LCM,J. Méndez,
+0.00,21,62,58,74,64,20,LCM,J. Méndez,
 1,34,18,19,35,25,25,GK,A. Otero,Patriotas Boyacá FC
 1,20,47,67,79,55,13,RCB,Kim Jin Ya,Incheon United FC
 3,29,61,56,80,51,20,LB,D. Christensen,Vendsyssel FF
@@ -10116,7 +10116,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,21,62,63,49,32,15,RB,Loureiro,Córdoba CF
 18,20,61,60,53,60,33,CB,Javi Hernández,Real Oviedo
 3,27,51,58,80,58,9,LS,K. Appiah,AFC Wimbledon
-€0.00,26,59,71,89,53,17,LW,R. Kirilov,
+0.00,26,59,71,89,53,17,LW,R. Kirilov,
 2,22,55,53,79,51,3,LB,H. Matynia,Pogoń Szczecin
 2,26,60,60,61,57,15,RB,Fran Gámez,RCD Mallorca
 3,26,67,58,55,68,19,LS,O. Ademi,FC Würzburger Kickers
@@ -10137,7 +10137,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,28,47,59,82,71,11,LM,H. Salinas,Deportes Iquique
 2,32,42,44,77,57,8,CDM,K. Nakamachi,Yokohama F. Marinos
 2,18,58,64,68,62,40,CM,J. Ekkelenkamp,Ajax
-€0.00,20,70,26,42,47,16,LCB,L. Haquin,
+0.00,20,70,26,42,47,16,LCB,L. Haquin,
 4,33,60,31,40,31,5,RCB,L. Legge,Port Vale
 11,25,29,71,86,53,23,LM,K. Harris,Cardiff City
 1,28,15,19,34,21,12,GK,S. Avellaneda,Boyacá Chicó FC
@@ -10301,7 +10301,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,25,42,65,85,53,16,CM,R. Gojani,IF Elfsborg
 1,29,59,65,64,55,27,CAM,I. Traoré,SK Slavia Praha
 1,33,53,66,70,23,7,LB,F. Sánchez,Unión La Calera
-€0.00,26,48,68,78,65,23,CM,S. Torrizales,
+0.00,26,48,68,78,65,23,CM,S. Torrizales,
 2,24,42,61,72,62,16,LW,J. Leiva,Audax Italiano
 2,32,57,67,79,70,18,ST,T. Röttger,SG Sonnenhof Großaspach
 2,24,10,13,23,18,23,GK,A. Duarte,Lobos BUAP
@@ -10346,7 +10346,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,27,35,68,72,57,88,CAM,Kaká,CD Nacional
 3,29,45,63,68,60,17,RM,M. Blair,Doncaster Rovers
 1,23,63,64,59,57,4,RCM,J. Petriccione,Lecce
-€0.00,26,64,65,72,63,21,ST,J. Sambenito,
+0.00,26,64,65,72,63,21,ST,J. Sambenito,
 4,23,74,25,33,22,18,CB,C. Schoissengeyr,FK Austria Wien
 3,21,53,55,80,47,38,CDM,L. Perdomo,Gimnasia y Esgrima La Plata
 2,27,42,62,74,71,11,LM,M. Röser,Karlsruher SC
@@ -10359,7 +10359,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,30,56,62,57,61,37,ST,J. Řezníček,Viktoria Plzeň
 7,27,55,68,77,64,25,RM,A. Al Zaqan,Al Ittihad
 1,24,41,66,58,70,29,CM,G. Acampora,Spezia
-€0.00,30,68,42,54,34,5,LB,J. Alondro,
+0.00,30,68,42,54,34,5,LB,J. Alondro,
 1,18,51,66,76,62,19,CAM,L. Ferguson,Aberdeen
 1,24,44,57,62,42,6,CDM,R. Augustyniak,Miedź Legnica
 2,22,53,67,72,58,27,CM,A. Cannon,Rochdale
@@ -10507,7 +10507,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,23,58,66,69,59,7,LM,W. Marinus,FC Emmen
 6,24,57,67,76,66,15,LM,S. Al Jaman,Al Wehda
 2,23,69,74,75,64,19,LW,I. Koneh,Boavista FC
-€0.00,25,19,17,59,21,12,GK,H. Piedra,
+0.00,25,19,17,59,21,12,GK,H. Piedra,
 2,22,28,64,83,50,12,LM,A. Leautey,Chamois Niortais Football Club
 2,26,63,61,74,68,22,ST,T. Børven,Odds BK
 1,31,71,30,42,35,15,CB,L. Nielsen,Trelleborgs FF
@@ -10612,7 +10612,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,28,19,10,36,22,90,GK,J. Gleeson,Portland Timbers
 4,27,65,45,56,55,28,CB,M. Akça,Yeni Malatyaspor
 1,29,66,69,66,60,11,ST,S. Romero,Atlético Bucaramanga
-€0.00,22,59,62,64,65,21,LB,D. Giannoulis,
+0.00,22,59,62,64,65,21,LB,D. Giannoulis,
 5,33,64,29,29,34,18,CB,D. Mirfin,Mansfield Town
 2,21,57,66,77,63,18,RM,C. Martinez,Columbus Crew SC
 2,29,58,63,68,65,8,CAM,M. Nichols,Wellington Phoenix
@@ -10627,7 +10627,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,20,46,69,93,55,14,RM,U. Antuna,FC Groningen
 1,24,48,64,67,66,8,CM,G. Carpani,Ascoli
 2,33,70,45,31,36,24,CB,Bae Seul Gi,Pohang Steelers
-€0.00,26,44,57,54,24,,,D. Bejarano,
+0.00,26,44,57,54,24,,,D. Bejarano,
 2,35,48,62,64,62,11,RM,P. Nymann,AC Horsens
 2,21,18,14,31,18,1,GK,R. Ramírez,Godoy Cruz
 1,23,18,17,34,27,23,GK,M. de Fockert,Excelsior
@@ -10725,7 +10725,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,22,71,67,57,59,17,CDM,A. Ndom,Stade de Reims
 1,23,12,13,22,17,30,GK,N. Medvedev,Lokomotiv Moscow
 2,29,51,66,74,59,11,RM,K. Murata,Shimizu S-Pulse
-€0.00,22,44,68,70,61,21,CM,D. Gazdag,
+0.00,22,44,68,70,61,21,CM,D. Gazdag,
 2,20,62,55,48,35,44,LB,João Moutinho,Los Angeles FC
 1,31,48,54,77,65,22,RCM,A. Annan,HJK Helsinki
 3,28,47,64,77,57,7,RM,S. Wagstaff,AFC Wimbledon
@@ -10815,7 +10815,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,23,64,69,58,63,10,LB,Pité,CD Tondela
 3,30,59,63,82,66,30,ST,Q. Amarikwa,Montreal Impact
 1,31,45,65,66,60,8,CM,Marquitos,Miedź Legnica
-€0.00,23,36,68,70,47,22,CAM,B. Tsonev,
+0.00,23,36,68,70,47,22,CAM,B. Tsonev,
 3,23,61,63,70,64,14,ST,C. Long,Fleetwood Town
 1,37,39,66,57,71,10,CM,K. Bakırcıoğlu,Hammarby IF
 2,24,63,36,61,47,19,RCB,F. Mendy,Red Star FC
@@ -10849,7 +10849,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,21,53,66,74,62,11,RM,J. Caenepeel,Excelsior
 1,24,64,36,52,52,33,CB,Iván Márquez,Korona Kielce
 2,25,63,58,59,50,13,CB,N. Besler,Real Salt Lake
-€0.00,23,62,62,63,53,22,LB,N. Loyola,
+0.00,23,62,62,63,53,22,LB,N. Loyola,
 2,25,59,62,74,62,20,LW,F. Rogic,Örebro SK
 2,26,59,63,61,74,20,RM,P. Hoffmann,SC Preußen Münster
 1,24,54,59,70,43,27,RB,E. Córdoba,Atlético Huila
@@ -10884,7 +10884,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,27,45,64,77,31,40,LB,Park Dae Han,Sangju Sangmu FC
 8,28,61,64,64,61,50,LS,A. Erceg,Brøndby IF
 1,25,43,67,79,50,32,CAM,M. Vázquez,La Equidad
-€0.00,25,60,44,59,53,7,LCM,L. Justiniano,
+0.00,25,60,44,59,53,7,LCM,L. Justiniano,
 3,26,38,64,80,58,15,LDM,A. Wildig,Morecambe
 6,34,67,54,71,58,6,CDM,O. Abdulaziz,Al Faisaly
 3,22,63,52,57,38,6,RCB,F. Kent,Colchester United
@@ -11246,7 +11246,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,19,65,58,55,56,29,LDM,A. Fein, SSV Jahn Regensburg
 2,26,70,54,68,65,12,ST,R. Bowman,Motherwell
 2,25,48,65,74,63,18,LW,N. Karger,TSV 1860 München
-€0.00,20,42,60,65,63,21,CM,A. Cicâldău,
+0.00,20,42,60,65,63,21,CM,A. Cicâldău,
 3,19,49,69,61,71,31,RW,D. Osei Yaw,Toulouse Football Club
 2,21,57,34,64,31,3,LB,M. Naderi,KV Kortrijk
 3,25,39,68,74,63,10,LM,K. Dobras,SCR Altach
@@ -11277,7 +11277,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,29,56,59,63,70,22,LM,M. Campos,Audax Italiano
 1,22,50,63,73,62,23,CM,G. Rivas,San Luis de Quillota
 2,21,58,65,58,67,26,CM,Pep Biel,Real Zaragoza
-€0.00,20,62,32,60,37,4,CB,D. Cornelius,
+0.00,20,62,32,60,37,4,CB,D. Cornelius,
 5,26,56,64,75,60,25,RB,F. Darwish,Al Wehda
 3,25,47,64,55,34,4,RB,R. Arciero,Club Atlético Banfield
 6,19,65,63,64,65,89,ST,A. Pinamonti,Frosinone
@@ -11317,7 +11317,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,23,55,60,64,60,64,RS,M. Ngombo,Ascoli
 2,29,36,64,68,62,8,CM,J. Ibarra,Lobos BUAP
 2,27,62,59,69,49,3,CB,F. Affolter,San Jose Earthquakes
-€0.00,26,58,34,46,48,4,RCB,J. Chancellor,
+0.00,26,58,34,46,48,4,RCB,J. Chancellor,
 5,18,64,39,43,48,15,CB,L. Mai,FC Bayern München
 1,33,61,49,76,63,24,LB,P. Jerez,CD Antofagasta
 5,24,42,64,86,61,11,RM,A. Al Bishi,Al Faisaly
@@ -11328,7 +11328,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,34,58,54,67,51,3,LWB,D. Lewington,Milton Keynes Dons
 9,18,44,62,68,47,37,LB,Fran García,Real Madrid
 1,27,49,66,90,64,33,ST,G. Mebrahtu,Sparta Praha
-€0.00,21,58,68,72,65,9,ST,A. Ponce,
+0.00,21,58,68,72,65,9,ST,A. Ponce,
 1,18,58,47,67,40,54,CDM,V. Screciu,KRC Genk
 2,21,51,67,76,65,77,LW,Mika,GD Chaves
 1,30,62,56,71,56,14,LB,D. Massey,Dundalk
@@ -11469,7 +11469,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 6,20,65,49,57,36,6,CB,S. Wharton,Lincoln City
 1,19,40,71,76,64,17,CF,A. Sigurðsson,PFC CSKA Moscow
 2,28,59,27,59,35,5,CB,J. Welzmüller,SpVgg Unterhaching
-€0.00,19,60,29,46,40,6,CB,N. Ferraresi,
+0.00,19,60,29,46,40,6,CB,N. Ferraresi,
 1,20,58,49,64,47,31,CDM,O. Kiomourtzoglou,SpVgg Unterhaching
 2,30,56,71,72,64,16,CAM,P. Taylor,Doncaster Rovers
 3,26,61,58,53,46,15,CDM,P. Keita,Waasland-Beveren
@@ -11505,7 +11505,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,26,68,50,32,41,6,CB,C. Burgess,Portsmouth
 3,33,58,64,69,69,9,CM,D. Olsen,Hobro IK
 3,25,60,52,59,42,5,RCB,E. Pinnock,Barnsley
-€0.00,26,17,20,31,24,15,GK,R. Quiñonez,
+0.00,26,17,20,31,24,15,GK,R. Quiñonez,
 2,21,53,71,78,64,38,ST,B. Jamieson IV,LA Galaxy
 1,22,55,62,66,46,17,RB,D. Payne,Excelsior
 1,31,15,15,52,15,1,GK,J. Lillis,Rochdale
@@ -11603,7 +11603,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,26,48,65,77,57,21,RB,M. Thiede,Karlsruher SC
 2,26,42,55,65,39,5,RB,J. Bartkowski,Wisła Kraków
 4,27,45,62,73,70,25,RCM,M. Mirahmetjan,Tianjin TEDA FC
-€0.00,22,72,63,58,66,19,ST,L. Vaca,
+0.00,22,72,63,58,66,19,ST,L. Vaca,
 3,29,56,57,54,54,8,LCM,J. Galeano,Club Atlético Aldosivi
 2,21,61,22,43,35,24,CB,Luis Muñoz,Córdoba CF
 5,20,65,60,54,67,40,ST,H. Wright,FC Schalke 04
@@ -11869,7 +11869,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,24,64,43,72,53,19,RB,A. Al Fahad,Al Raed
 1,25,20,19,39,24,1,GK,N. Losada,Deportivo Pasto
 3,22,48,61,61,65,14,CM,J. Thomasen,Odense Boldklub
-€0.00,24,55,52,59,49,13,RCM,D. Wayar,
+0.00,24,55,52,59,49,13,RCM,D. Wayar,
 1,30,70,29,49,37,22,RCB,M. Velásquez,CD Everton de Viña del Mar
 2,26,41,63,76,60,25,RW,Ahn Yong Woo,Sagan Tosu
 1,21,48,66,82,50,30,LM,E. Valencia,Independiente Medellín
@@ -11918,7 +11918,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,41,65,86,60,15,LM,J. Carbonero,Once Caldas
 4,29,68,62,68,62,21,LCM,J. O'Toole,Northampton Town
 1,28,61,62,71,69,9,ST,B. Pintol,SC Fortuna Köln
-€0.00,30,61,64,71,67,18,CAM,G. Ivanov,
+0.00,30,61,64,71,67,18,CAM,G. Ivanov,
 3,33,55,58,64,65,13,LB,T. Kortegaard,AC Horsens
 1,29,50,51,83,46,21,CDM,K. Kato,Sagan Tosu
 1,27,49,58,70,58,29,RM,S. Kobayashi,Vegalta Sendai
@@ -11983,7 +11983,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,26,65,54,53,45,18,CB,T. Eastman,Colchester United
 1,32,70,42,53,59,26,RCB,C. Pérez,Rionegro Águilas
 1,23,34,70,83,54,94,LM,F. Ayaz,Dalkurd FF
-€0.00,22,66,22,46,39,2,CB,J. Candía,
+0.00,22,66,22,46,39,2,CB,J. Candía,
 2,29,62,65,78,68,27,ST,J. Simpson,Philadelphia Union
 2,33,67,37,31,65,4,CB,Agus,Esbjerg fB
 2,31,15,12,39,26,1,GK,M. Howard,Blackpool
@@ -12000,7 +12000,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,19,38,62,73,47,26,CM,M. Sepúlveda,CD O'Higgins
 2,25,44,66,70,61,13,LM,M. Savković,Jagiellonia Białystok
 3,31,48,65,64,50,17,LWB,Fan Xiaodong,Changchun Yatai FC
-€0.00,30,61,66,66,78,18,LM,B. Añor,
+0.00,30,61,66,66,78,18,LM,B. Añor,
 2,23,58,57,70,64,15,LB,B. Kuipers,ADO Den Haag
 2,29,58,60,66,53,29,RB,S. Cummings,Doncaster Rovers
 2,19,31,69,75,62,35,RM,K. Lankford,1. FC Heidenheim 1846
@@ -12033,7 +12033,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,26,58,63,60,64,22,RB,J. Tveita,Sarpsborg 08 FF
 2,34,60,63,61,70,3,CB,Yang Sang Min,Suwon Samsung Bluewings
 3,34,11,12,50,14,12,GK,Nelson Freitosa,Ceará Sporting Club
-€0.00,21,51,63,52,58,12,CM,T. Mokoena,
+0.00,21,51,63,52,58,12,CM,T. Mokoena,
 1,19,48,71,73,67,98,ST,Kikas,Os Belenenses
 3,33,15,14,44,13,1,GK,D. Lopar,FC St. Gallen
 3,26,65,63,65,66,9,ST,L. Díaz,Atlético Tucumán
@@ -12210,7 +12210,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,35,56,57,70,62,17,CM,P. Green,Crewe Alexandra
 1,22,67,62,70,63,18,ST,P. Cappelluzzo,Hellas Verona
 1,35,13,12,48,14,24,GK,J. Mucha,Hamilton Academical FC
-€0.00,23,55,71,63,74,7,LW,L. Maboe,
+0.00,23,55,71,63,74,7,LW,L. Maboe,
 3,25,56,56,51,64,27,ST,M. Hvilsom,SønderjyskE
 2,26,48,62,72,65,8,CM,D. Parrett,Gillingham
 1,25,71,48,61,69,8,ST,L. Campana,Club Deportes Temuco
@@ -12226,7 +12226,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,20,59,51,56,27,30,LB,Ángel,Albacete BP
 1,26,57,27,43,36,15,LCB,D. Franco,Curicó Unido
 1,30,62,37,37,38,4,LCB,O. Pehrsson,IK Sirius
-€0.00,24,57,56,71,28,22,LB,J. Sagredo,
+0.00,24,57,56,71,28,22,LB,J. Sagredo,
 2,28,13,13,40,20,1,GK,J. McKeown,Grimsby Town
 1,22,53,56,67,26,17,RB,J. Monroy,Boyacá Chicó FC
 2,21,59,60,65,66,21,CDM,E. Massouema,Valenciennes FC
@@ -12533,7 +12533,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,18,22,72,82,60,26,CAM,O. Boussaid,FC Utrecht
 2,20,41,62,67,67,20,CM,H. Demir,Kasimpaşa SK
 1,26,59,62,62,33,6,LB,J. Pirinen,HJK Helsinki
-€0.00,24,48,64,52,51,6,RM,D. Bejarano,
+0.00,24,48,64,52,51,6,RM,D. Bejarano,
 2,21,22,11,32,31,32,GK,T. Schützenauer,SK Sturm Graz
 1,22,56,51,78,54,5,CDM,Jaquité,CD Tondela
 1,19,38,67,90,64,14,RM,A. Jallow,FC Metz
@@ -12581,7 +12581,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,29,54,53,85,65,33,RCM,M. Byrne,Gillingham
 1,24,54,59,64,57,2,RB,M. Haakenstad,Lillestrøm SK
 2,22,63,34,60,32,20,RCB,C. Goode,Scunthorpe United
-€0.00,22,42,57,50,41,8,RB,E. Saavedra,
+0.00,22,42,57,50,41,8,RB,E. Saavedra,
 1,20,30,66,90,50,11,LM,M. Baku,SG Sonnenhof Großaspach
 3,26,43,59,59,70,8,RM,G. Compagnucci,Unión de Santa Fe
 3,26,46,63,64,65,30,CAM,M. Rømer,SønderjyskE
@@ -12593,11 +12593,11 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,25,41,59,74,58,15,RM,Shin Chang Moo,Sangju Sangmu FC
 1,25,61,55,58,35,5,LCB,L. Grace,Shamrock Rovers
 1,25,46,65,75,50,7,LM,M. Trianni,VfR Aalen
-€0.00,22,41,53,68,31,4,RB,C. Añez,
+0.00,22,41,53,68,31,4,RB,C. Añez,
 3,32,30,58,73,61,15,CAM,D. Bowditch,Northampton Town
 1,23,12,12,33,35,31,GK,Lee Tae Hee,Incheon United FC
 5,20,60,55,46,26,38,RB,Carlos Isaac,Atlético Madrid
-€0.00,27,57,61,79,70,12,RS,J. Lalpekhlua,
+0.00,27,57,61,79,70,12,RS,J. Lalpekhlua,
 1,25,51,74,66,62,29,ST,Rafhael Lucas,Jaguares de Córdoba
 1,23,49,64,84,54,16,RM,D. Connolly,Dundalk
 5,19,45,68,72,62,7,RW,M. Wilks,Doncaster Rovers
@@ -12683,7 +12683,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,32,62,56,62,41,3,LB,G. Sawyer,Plymouth Argyle
 1,24,18,18,34,20,30,GK,J. Fabri,Stade Brestois 29
 4,26,37,63,86,57,7,CAM,T. Pett,Lincoln City
-€0.00,23,56,62,68,58,7,CM,C. Howieson,
+0.00,23,56,62,68,58,7,CM,C. Howieson,
 1,23,65,51,62,57,31,RDM,N. Brandenburger,SC Fortuna Köln
 2,26,70,43,51,60,37,CDM,Lolo,Real Oviedo
 1,24,51,63,75,56,94,LB,PC,Orlando City SC
@@ -12810,7 +12810,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,31,56,58,74,56,18,LM,Park Jong Jin,Incheon United FC
 2,23,58,66,66,61,10,CAM,E. Lee,Luton Town
 6,25,68,60,65,59,70,ST,M. Al Saiari,Al Hazem
-€0.00,26,18,13,38,14,23,GK,G. Singh Sandhu,
+0.00,26,18,13,38,14,23,GK,G. Singh Sandhu,
 1,21,48,59,56,25,23,LB,J. Pendant,FC Sochaux-Montbéliard
 2,19,63,58,57,55,38,ST,A. Gaich,San Lorenzo de Almagro
 2,18,46,68,63,60,17,LM,S. Sosa,Club Atlético Talleres
@@ -12929,7 +12929,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,36,14,14,41,22,1,GK,G. Rogers,Dundalk
 1,23,58,59,69,54,31,CDM,Maximiano,Minnesota United FC
 4,24,44,63,72,64,8,RM,M. Al Dhaw,Ohod Club
-€0.00,21,48,66,73,79,19,LM,K. Despodov,
+0.00,21,48,66,73,79,19,LM,K. Despodov,
 1,26,57,51,52,60,2,RWB,T. Schilk,Hallescher FC
 5,24,62,53,70,24,33,CB,A. Sharahili,Al Hilal
 1,31,43,60,78,62,8,CAM,S. Pawłowski,Zagłębie Sosnowiec
@@ -13095,7 +13095,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,23,61,32,54,37,5,CB,J. Vargas,Deportes Tolima
 3,30,53,22,61,60,20,CB,Túlio Nevinha,Ceará Sporting Club
 2,23,11,6,25,25,12,GK,D. Sappa,Estudiantes de La Plata
-€0.00,26,60,44,57,39,3,CB,N. Boxall,
+0.00,26,60,44,57,39,3,CB,N. Boxall,
 1,18,14,10,52,15,35,GK,Emilio Bernad,Valencia CF
 1,23,56,71,74,62,11,RS,Murilo Mendes,Livorno
 1,23,51,64,75,47,26,RM,J. Obrian,Deportes Tolima
@@ -13184,7 +13184,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,23,45,59,85,57,20,RM,B. Waters,Northampton Town
 2,20,46,68,77,60,33,LW,N. Delgadillo,Vélez Sarsfield
 1,19,64,53,67,50,27,RB,T. Campanini,GFC Ajaccio
-€0.00,26,46,61,52,62,20,CDM,M. Raynov,
+0.00,26,46,61,52,62,20,CDM,M. Raynov,
 1,26,50,55,74,27,3,RB,K. Larson,IK Sirius
 5,21,61,59,57,66,17,ST,A. Boupendza,GFC Ajaccio
 1,21,52,56,67,52,13,LB,J. Hernández,Atlanta United
@@ -13507,7 +13507,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,26,43,64,69,64,12,RM,M. Veloso,Neuchâtel Xamax
 2,30,61,63,58,61,18,RM,Y. Arquin,Yeovil Town
 2,24,62,57,60,63,89,ST,M. Jelavić,Royal Excel Mouscron
-€0.00,31,64,44,56,27,22,LCB,A. Edathodika,
+0.00,31,64,44,56,27,22,LCB,A. Edathodika,
 1,20,72,54,56,55,28,CM,Luis Perea,CA Osasuna
 3,19,56,65,69,69,20,ST,J. Villalba,Borussia Mönchengladbach
 3,21,60,49,54,55,27,CDM,Perera,Deportivo Alavés
@@ -13661,7 +13661,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,18,47,70,65,68,80,LW,D. Hernández,Guadalajara
 3,21,56,43,61,33,33,LB,Quinti,Villarreal CF
 3,21,54,58,59,56,6,LDM,I. Ljubić,TSV Hartberg
-€0.00,23,55,60,61,50,14,CM,C. Arano,
+0.00,23,55,60,61,50,14,CM,C. Arano,
 3,25,64,56,73,64,31,LS,F. Barceló,Patronato
 1,23,46,66,52,56,8,RCM,K. Fukai,Hokkaido Consadole Sapporo
 1,22,54,57,60,50,2,LB,H. Sy,Red Star FC
@@ -13773,7 +13773,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,20,61,60,43,60,20,LCM,D. Avounou,US Orléans Loiret Football
 1,19,61,34,49,44,24,CB,S. Barreto,Independiente
 1,27,41,64,72,56,19,RW,T. Sawada,V-Varen Nagasaki
-€0.00,24,53,58,66,66,6,LCM,T. Payne,
+0.00,24,53,58,66,66,6,LCM,T. Payne,
 1,24,60,46,58,49,13,RCB,M. Yamane,Shonan Bellmare
 1,25,66,48,75,50,26,CDM,J. Dem,SG Sonnenhof Großaspach
 3,22,52,61,76,58,29,CAM,Ba Dun,Beijing Sinobo Guoan FC
@@ -14053,7 +14053,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,21,61,44,39,41,32,CB,Eliseo Falcón,Granada CF
 2,26,58,62,56,58,8,RM,S. Ramizi,Neuchâtel Xamax
 6,22,52,66,64,65,34,CM,J. Flannigan,Burton Albion
-€0.00,25,54,53,57,46,17,RCM,P. Halder,
+0.00,25,54,53,57,46,17,RCM,P. Halder,
 2,18,51,60,73,68,41,CM,H. Adıgüzel,Akhisar Belediyespor
 1,31,59,41,55,64,5,CB,S. Strømnes,Stabæk Fotball
 1,19,46,56,67,32,33,LB,K. Pestka,Cracovia
@@ -14085,7 +14085,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,28,42,58,70,60,7,RM,J. Chianese,Perth Glory
 4,22,60,44,62,33,40,CB,K. Howkins,West Bromwich Albion
 2,19,62,35,35,43,96,CB,B. Galindo,Guadalajara
-€0.00,27,43,67,63,54,21,CM,I. Minchev,
+0.00,27,43,67,63,54,21,CM,I. Minchev,
 2,18,58,55,57,58,21,CDM,A. Zekaj,LOSC Lille
 1,29,12,16,33,49,30,GK,T. Vaiho,Djurgårdens IF
 1,21,19,14,33,20,23,GK,L. Sotomayor,Deportes Iquique
@@ -14123,7 +14123,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,20,55,65,68,63,10,CAM,F. Benko,LASK Linz
 2,33,15,12,52,18,1,GK,Liu Zhenli,Shandong Luneng TaiShan FC
 1,23,55,57,79,63,18,LCM,M. Piccinocchi,FC Lugano
-€0.00,19,51,58,60,35,18,CB,A. Paşcanu,
+0.00,19,51,58,60,35,18,CB,A. Paşcanu,
 2,29,57,49,57,41,20,CB,A. Al Harbi,Al Hazem
 1,26,16,16,40,17,1,GK,Kim Gyeong Min,Jeju United FC
 1,22,49,61,64,47,27,RM,R. González,San Luis de Quillota
@@ -14198,7 +14198,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,20,50,69,78,64,18,ST,N. Laursen,Brøndby IF
 7,18,51,57,75,56,74,RM,L. Bolton,Manchester City
 3,29,50,54,71,63,10,LS,R. Miller,Port Vale
-€0.00,24,47,53,72,45,20,RB,P. Kotal,
+0.00,24,47,53,72,45,20,RB,P. Kotal,
 1,21,49,63,74,51,29,LB,F. Saavedra,Universidad de Chile
 1,22,58,57,58,51,24,RB,J. Lorch,SV Wehen Wiesbaden
 4,22,60,30,43,45,5,LCB,M. Hosseini,Trabzonspor
@@ -14217,7 +14217,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,24,52,63,77,58,27,RS,R. Muhammed,Sarpsborg 08 FF
 6,22,50,63,75,60,15,ST,M. Al Mania,Al Hazem
 8,21,47,67,68,63,23,LW,A. López,Club América
-€0.00,25,44,60,71,66,18,LW,L. Ralte,
+0.00,25,44,60,71,66,18,LW,L. Ralte,
 1,23,53,30,45,40,23,CB,M. Payares,Deportivo Pasto
 1,22,45,61,82,41,20,LM,F. Sucsuz,FC Carl Zeiss Jena
 1,18,42,66,72,49,23,CM,C. Cásseres Jr,New York Red Bulls
@@ -14367,8 +14367,8 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,26,11,17,37,24,20,GK,M. Gillespie,Motherwell
 3,21,19,16,31,20,39,GK,D. Gyollai,Stoke City
 3,28,57,56,88,55,11,CAM,J. Cook,Grimsby Town
-€0.00,23,60,57,62,41,21,CDM,T. Hudson-Wihongi,
-€0.00,22,64,59,59,55,17,ST,J. Tuominen,
+0.00,23,60,57,62,41,21,CDM,T. Hudson-Wihongi,
+0.00,22,64,59,59,55,17,ST,J. Tuominen,
 1,22,13,12,38,16,22,GK,T. Smith,Southend United
 1,32,51,63,70,60,86,CAM,Kim Young Sin,Gangwon FC
 3,25,73,58,55,32,2,RB,Li Songyi,Shandong Luneng TaiShan FC
@@ -14486,7 +14486,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,26,43,60,70,57,42,CAM,An Jin Beom,Sangju Sangmu FC
 1,34,61,41,51,43,45,CB,M. Kakuda,Shimizu S-Pulse
 1,28,67,31,60,57,5,CB,Kang Ji Yong,Incheon United FC
-€0.00,25,56,55,77,50,13,RB,J. Gulley,
+0.00,25,56,55,77,50,13,RB,J. Gulley,
 1,20,41,66,59,61,30,CM,C. Owens,Queens Park Rangers
 2,17,45,69,70,43,24,CM,N. Raskin,KAA Gent
 1,19,31,70,73,52,16,LM,J. Bocanegra,Junior FC
@@ -14704,7 +14704,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,18,66,57,50,57,42,CDM,A. Karnuçu,Galatasaray SK
 1,21,66,40,52,50,15,CB,D. Quaranta,Ascoli
 1,31,13,11,56,17,1,GK,T. Velaphi,Perth Glory
-€0.00,24,54,52,79,27,21,LB,N. Das,
+0.00,24,54,52,79,27,21,LB,N. Das,
 3,21,54,37,37,48,15,CB,J. Durán,Club León
 3,24,67,36,45,47,30,CB,Rafael Zuchi,SD Huesca
 1,22,18,22,38,38,25,GK,M. Vargas,Universidad Católica
@@ -14785,7 +14785,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,21,50,57,71,32,2,RB,T. Watson,AFC Wimbledon
 1,21,71,54,53,65,29,ST,M. Sifneos,Panathinaikos FC
 3,23,47,57,53,48,24,CDM,E. Al Joufi,Al Wehda
-€0.00,22,54,57,74,54,15,RM,U. Singh,
+0.00,22,54,57,74,54,15,RM,U. Singh,
 2,20,57,30,45,42,25,CB,A. Maldonado,Club Atlético Banfield
 2,20,59,59,77,60,18,LM,B. Álvarez,Unión de Santa Fe
 1,22,15,15,38,18,31,GK,Ximo Miralles,AD Alcorcón
@@ -14914,7 +14914,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,25,49,62,55,30,31,RB,A. Fejzullahu,Neuchâtel Xamax
 1,25,59,52,72,70,24,LS,D. Johnson,Motherwell
 2,31,53,63,75,62,7,CM,Jiang Ning,Hebei China Fortune FC
-€0.00,24,47,62,71,53,19,LM,H. Narzary,
+0.00,24,47,62,71,53,19,LM,H. Narzary,
 1,21,45,62,63,38,36,LB,S. Ntiya-Ntiya,Kaizer Chiefs
 2,28,51,42,72,51,15,CDM,Zhang Mengqi,Guizhou Hengfeng FC
 1,19,48,58,63,80,3,LB,L. Czyborra,Heracles Almelo
@@ -15059,7 +15059,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,29,49,59,53,46,16,CDM,I. Musalami,Al Hazem
 1,17,48,62,69,31,26,RB,S. Asta,FC Augsburg
 1,19,67,47,55,56,99,ST,A. Verda,Querétaro
-€0.00,29,18,16,34,18,13,GK,B. Makendzhiev,
+0.00,29,18,16,34,18,13,GK,B. Makendzhiev,
 2,19,54,61,81,59,37,ST,A. Pululu,FC Basel 1893
 1,22,26,61,72,45,7,LM,R. Browne,Yeovil Town
 1,23,42,60,78,52,3,RB,C. Odoi-Atsem,DC United
@@ -15195,7 +15195,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 4,23,48,59,68,55,24,ST,A. Al Obud,Ettifaq FC
 1,25,42,58,65,56,14,LM,T. Kallevåg,FK Haugesund
 1,19,49,61,61,62,35,CM,Gori López,CF Reus Deportiu
-€0.00,27,62,42,57,47,3,CDM,A. Tsvetkov,
+0.00,27,62,42,57,47,3,CDM,A. Tsvetkov,
 3,23,47,54,59,27,50,RB,S. Al Khayri,Ettifaq FC
 1,29,46,62,66,61,8,CM,F. Musaev,Júbilo Iwata
 2,28,68,57,61,48,15,CM,Chen Jie,Beijing Renhe FC
@@ -15330,7 +15330,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,20,42,60,62,58,35,CDM,J. Schuurman,Vitesse
 1,19,55,36,54,31,15,CB,J. Stanic,FC Augsburg
 1,22,60,60,78,59,70,LW,Joo Hyun Ho,Suwon Samsung Bluewings
-€0.00,21,58,58,61,51,10,CAM,A. de Jong,
+0.00,21,58,58,61,51,10,CAM,A. de Jong,
 2,22,15,15,39,20,13,GK,W. Sietsma,Milton Keynes Dons
 3,19,54,34,53,41,46,CB,C. Jordan,Bournemouth
 1,20,50,57,57,32,27,RB,Óscar Gil,Elche CF
@@ -15355,7 +15355,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,21,14,9,31,31,26,GK,Oleaga,Athletic Club de Bilbao
 1,21,68,53,46,52,19,ST,J. Kristoffersen,Hobro IK
 2,20,50,66,61,76,58,LM,F. Şimşek,Çaykur Rizespor
-€0.00,28,55,52,62,60,9,ST,R. Singh,
+0.00,28,55,52,62,60,9,ST,R. Singh,
 2,22,55,59,72,66,16,CM,M. Smith,Swindon Town
 3,20,43,71,78,50,34,RM,M. Čović,Hertha BSC
 2,23,17,18,44,28,13,GK,Z. de la Paz,Oldham Athletic
@@ -15384,7 +15384,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,21,46,63,70,48,8,CDM,O. Al Khalaf,Ettifaq FC
 2,18,42,60,79,51,32,CF,V. Kušej,SG Dynamo Dresden
 1,19,34,64,70,55,16,CAM,F. Manzo,Unión La Calera
-€0.00,22,65,45,47,40,4,RCB,B. Chorbadzhiyski,
+0.00,22,65,45,47,40,4,RCB,B. Chorbadzhiyski,
 1,21,51,54,60,26,22,RB,A. Sissoko,Clermont Foot 63
 1,21,16,15,39,25,30,GK,D. Olsson,IF Elfsborg
 1,21,59,50,58,55,15,CB,P. McClean,Sligo Rovers
@@ -15392,8 +15392,8 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,35,10,14,24,18,25,GK,T. Enomoto,Urawa Red Diamonds
 1,19,55,62,64,43,34,LB,S. Sidler,FC Luzern
 1,22,58,56,62,65,24,LM,C. Kühlwetter,1. FC Kaiserslautern
-€0.00,18,18,12,29,22,23,GK,A. Busti,
-€0.00,22,56,48,57,37,20,CB,A. Mitchell,
+0.00,18,18,12,29,22,23,GK,A. Busti,
+0.00,22,56,48,57,37,20,CB,A. Mitchell,
 2,21,54,59,66,65,21,CM,E. Robson,Sunderland
 1,20,12,13,35,18,51,GK,Moon Jeong In,Ulsan Hyundai FC
 2,23,53,63,65,50,6,CM,Gao Jiarun,Tianjin TEDA FC
@@ -15458,7 +15458,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,23,56,60,72,50,24,ST,L. Forte,Pescara
 1,26,54,50,70,56,22,LCM,D. Cawley,Sligo Rovers
 2,21,42,58,76,50,35,RM,Che Shiwei,Hebei China Fortune FC
-€0.00,24,45,46,54,66,14,CM,K. Malinov,
+0.00,24,45,46,54,66,14,CM,K. Malinov,
 1,19,52,46,68,45,24,LB,F. Bjørkan,FK Bodø/Glimt
 1,23,48,58,86,52,15,RB,J. Córdova,CD Huachipato
 2,24,46,57,75,61,8,LW,T. Marsh,Macclesfield Town
@@ -15642,7 +15642,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,44,55,74,57,34,RM,T. Klupś,Lech Poznań
 8,22,15,16,35,23,1,GK,K. O'Hara,Macclesfield Town
 1,21,44,63,77,50,9,RWB,T. Mølgaard,Vejle Boldklub
-€0.00,22,57,30,60,38,3,CB,S. Singh,
+0.00,22,57,30,60,38,3,CB,S. Singh,
 1,28,48,67,71,60,26,ST,H. Benkaïd,US Orléans Loiret Football
 4,18,51,62,62,60,27,ST,Obama,Atlético Madrid
 1,26,58,48,58,36,15,LB,J. Falkmar,IF Brommapojkarna
@@ -15651,7 +15651,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,36,61,51,34,55,2,CB,D. Nasu,Vissel Kobe
 1,24,60,45,49,51,18,RB,D. Conner,Chicago Fire
 1,19,26,63,77,43,38,LM,S. Kodama,Nagoya Grampus
-€0.00,20,47,54,79,47,7,LCM,A. Thapa,
+0.00,20,47,54,79,47,7,LCM,A. Thapa,
 2,21,46,45,53,63,44,LDM,S. Farhan,Al Raed
 2,31,49,59,68,58,13,LWB,A. Ablet,Henan Jianye FC
 1,19,67,29,51,32,25,CB,Yoo Ji Ha,Pohang Steelers
@@ -15761,7 +15761,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,21,49,58,72,58,39,ST,A. Collins,Colchester United
 1,21,39,64,84,48,17,LM,P. Kasim,IFK Göteborg
 4,22,36,52,57,28,3,RB,T. Abdullah,Al Ittihad
-€0.00,24,23,16,54,22,23,GK,M. Crocombe,
+0.00,24,23,16,54,22,23,GK,M. Crocombe,
 1,24,41,62,80,58,15,LM,E. Næsbak Brenden,Lillestrøm SK
 1,20,44,63,78,58,8,LCM,J. O'Doherty,Western Sydney Wanderers
 2,19,49,60,52,34,29,RB,Fernando Costanza,LOSC Lille
@@ -15824,7 +15824,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,18,41,55,67,62,34,CM,J. Mbom,SV Werder Bremen
 1,17,60,29,46,45,30,CB,S. van Dijck,VVV-Venlo
 1,25,38,67,90,56,23,CF,D. Gremsl,FSV Zwickau
-€0.00,21,54,55,65,62,17,ST,M. Bevan,
+0.00,21,54,55,65,62,17,ST,M. Bevan,
 3,20,57,59,64,57,26,CM,S. Friede,Hertha BSC
 2,20,47,62,61,64,40,RM,A. Guiffrey,Patronato
 1,21,13,13,35,22,40,GK,M. Sætra,Strømsgodset IF
@@ -15854,7 +15854,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,25,12,9,30,33,22,GK,F. Due,Randers FC
 1,28,19,11,25,17,1,GK,L. Saxton,GIF Sundsvall
 2,20,56,50,58,38,17,CB,C. James,Colchester United
-€0.00,25,42,54,78,52,8,CM,M. Rafique,
+0.00,25,42,54,78,52,8,CM,M. Rafique,
 1,34,17,15,37,16,1,GK,P. Cherrie,Derry City
 1,22,57,56,72,57,28,ST,E. Stokes,Bohemian FC
 2,26,44,52,65,34,12,LB,S. Al Hamdan,Al Hazem
@@ -15863,7 +15863,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,26,54,43,56,52,2,LB,A. Buxton,Tranmere Rovers
 2,22,58,36,43,46,12,LB,M. Gillesphey,Carlisle United
 1,21,10,10,39,26,30,GK,G. Banaziak,Amiens SC
-€0.00,25,15,14,30,21,16,GK,A. Singh,
+0.00,25,15,14,30,21,16,GK,A. Singh,
 1,21,11,10,33,15,29,GK,D. Sváček,Viktoria Plzeň
 1,21,45,64,77,53,2,RB,D. Sauerland,Eintracht Braunschweig
 1,21,61,57,58,60,45,ST,G. Kelly,Dundalk
@@ -15883,7 +15883,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,27,35,52,73,54,32,CDM,Li Guang,Changchun Yatai FC
 2,21,50,60,79,54,15,CM,E. Osadebe,Cambridge United
 2,28,48,60,67,51,16,RB,Du Wenyang,Hebei China Fortune FC
-€0.00,31,45,51,63,59,10,ST,B. Singh,
+0.00,31,45,51,63,59,10,ST,B. Singh,
 1,22,37,63,81,53,26,CM,E. Granat,GIF Sundsvall
 1,30,61,45,51,61,17,CDM,V. Cordoba,Itagüí Leones FC
 1,19,53,48,68,37,3,CDM,L. Schelenz,KFC Uerdingen 05
@@ -16134,7 +16134,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,22,36,59,67,59,14,RW,R. Alm,IF Brommapojkarna
 3,17,43,65,69,51,42,RM,A. Bakir,Borussia Dortmund
 1,20,54,64,59,65,25,LW,M. Bassouamina,AS Nancy Lorraine
-€0.00,22,53,53,58,40,2,LB,S. Bose,
+0.00,22,53,53,58,40,2,LB,S. Bose,
 1,28,49,59,57,48,21,CAM,Maikel,IF Brommapojkarna
 1,18,44,58,56,46,24,RCM,J. Urzúa,CD Huachipato
 2,19,45,57,72,54,25,CAM,B. Wiles,Rotherham United
@@ -16264,7 +16264,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,45,58,66,53,40,CM,R. Hirakawa,FC Tokyo
 1,25,58,57,47,60,20,ST,C. Cooke,St. Mirren
 1,40,15,15,25,19,1,GK,P. van der Vlag,FC Emmen
-€0.00,26,55,45,54,44,14,CDM,R. Borges,
+0.00,26,55,45,54,44,14,CDM,R. Borges,
 1,19,12,11,34,22,31,GK,T. Nijhuis,FC Utrecht
 1,22,69,32,58,31,26,CB,L. Bogdan,Livorno
 1,20,45,57,64,52,2,RB,L. Wildin,Stevenage
@@ -16449,7 +16449,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,24,15,13,45,16,31,GK,R. Suzuki,Gamba Osaka
 1,20,44,57,58,38,23,RB,O. Özdemir,Le Havre AC
 1,36,56,59,67,55,10,ST,R. Cretaro,Sligo Rovers
-€0.00,31,15,14,65,13,,,S. Paul,
+0.00,31,15,14,65,13,,,S. Paul,
 1,27,18,15,26,14,21,GK,M. Halstead,Morecambe
 1,18,11,8,35,17,31,GK,R. Schofield,Huddersfield Town
 1,19,38,60,81,41,27,LM,S. Härtel,FC Erzgebirge Aue
@@ -16498,7 +16498,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,22,53,42,54,27,3,LB,M. Sipľak,Cracovia
 1,22,51,56,59,54,11,RM,M. Miller,Hamilton Academical FC
 1,23,25,53,67,54,16,LM,O. Johansson,Trelleborgs FF
-€0.00,28,60,32,48,60,4,CB,A. Mondal,
+0.00,28,60,32,48,60,4,CB,A. Mondal,
 1,21,47,57,62,55,25,CM,Z. Westbrooke,Coventry City
 2,21,37,67,42,63,28,ST,K. Pagliuca,Hallescher FC
 4,21,48,50,57,35,6,CB,B. Hall,Notts County
@@ -16538,7 +16538,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,44,61,73,40,37,CM,N. Simon,Racing Club de Lens
 2,20,50,63,63,58,43,RB,N. Kirk,Brentford
 3,21,45,53,53,50,49,RM,S. Al Najrani,Al Fateh
-€0.00,23,47,51,70,24,,,L. Lalruatthara,
+0.00,23,47,51,70,24,,,L. Lalruatthara,
 2,21,11,10,34,13,13,GK,A. Attiah,Al Wehda
 1,22,69,53,45,55,99,ST,K. Ademi,Neuchâtel Xamax
 1,29,41,50,66,33,4,LB,C. Gallego,Itagüí Leones FC
@@ -16782,7 +16782,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 2,23,58,38,49,33,5,RB,A. Cvetkovic,Grasshopper Club Zürich
 1,26,41,23,40,38,3,CB,R. Okazaki,Shonan Bellmare
 2,21,44,56,78,54,15,LCM,R. Wintle,Crewe Alexandra
-€0.00,18,38,50,62,46,23,CDM,M. Smith,
+0.00,18,38,50,62,46,23,CDM,M. Smith,
 1,24,53,49,60,49,24,CM,J. Rees,Gillingham
 1,35,13,13,24,19,29,GK,K. Ogi,Vissel Kobe
 1,21,59,55,51,47,31,CM,Álvaro Gómez,Albacete BP
@@ -16792,7 +16792,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,21,10,11,38,26,12,GK,K. Dybowski,Piast Gliwice
 2,21,11,8,32,22,1,GK,T. Vermot,AS Saint-Étienne
 1,18,12,13,32,28,26,GK,Darío Ramos,Albacete BP
-€0.00,31,39,57,81,63,,,E. Lyngdoh,
+0.00,31,39,57,81,63,,,E. Lyngdoh,
 1,21,40,61,66,65,32,ST,R. Escobar,San Luis de Quillota
 1,23,58,56,52,54,99,ST,M. Ogkmpoe,Hamilton Academical FC
 1,19,48,28,46,38,56,CB,N. Pejović,Empoli
@@ -16902,7 +16902,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,10,12,27,17,38,GK,K. Osako,Sanfrecce Hiroshima
 2,21,51,34,38,38,13,CB,Wei Zhen,Shanghai SIPG FC
 1,18,39,58,71,55,20,CM,A. Hudu,Hammarby IF
-€0.00,19,44,46,67,63,6,LB,J. Lalrinzuala,
+0.00,19,44,46,67,63,6,LB,J. Lalrinzuala,
 1,19,54,52,75,53,17,ST,I. Pearce,Forest Green Rovers
 1,21,45,52,65,25,17,CB,R. Motegi,Urawa Red Diamonds
 1,18,43,57,64,58,31,LM,K. Cabral,Valenciennes FC
@@ -16946,7 +16946,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,17,11,13,25,20,50,GK,L. Ashby-Hammond,Fulham
 2,23,57,55,66,54,18,LB,N. Marfelt,SønderjyskE
 3,19,41,58,69,53,46,RM,T. Chakwana,Burnley
-€0.00,23,17,13,31,25,12,GK,F. Schram,
+0.00,23,17,13,31,25,12,GK,F. Schram,
 1,20,45,62,75,47,11,LB,D. Daly,Waterford FC
 1,19,56,54,64,46,9,ST,S. Pedersen,Strømsgodset IF
 3,19,57,50,56,49,98,ST,M. Al Hamad,Al Batin
@@ -16975,7 +16975,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,20,37,55,65,35,27,RB,T. Damsgaard,Randers FC
 1,18,51,55,65,56,19,ST,K. Henry,Yeovil Town
 2,30,52,36,45,32,6,CDM,Zhu Xiaogang,Dalian YiFang FC
-€0.00,21,58,49,81,57,13,LW,A. Kuruniyan,
+0.00,21,58,49,81,57,13,LW,A. Kuruniyan,
 1,20,45,55,73,55,33,CM,R. Batlokwa,Southend United
 1,19,14,13,34,24,39,GK,B. Leneis,FC Augsburg
 3,18,37,60,69,55,47,LM,M. Blair,Burnley
@@ -17007,7 +17007,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,19,49,58,61,58,25,RM,D. Puster,FC Admira Wacker Mödling
 2,19,54,21,54,38,4,CB,H. Tombakti,Al Shabab
 1,17,55,34,55,40,27,CB,L. Gibbens,Mansfield Town
-€0.00,27,48,48,52,63,7,LDM,G. Kostadinov,
+0.00,27,48,48,52,63,7,LDM,G. Kostadinov,
 1,32,71,48,51,50,23,ST,L. Perea,La Equidad
 1,21,13,22,31,35,30,GK,A. Ogalde,Universidad Católica
 1,25,16,16,52,22,12,GK,M. Bersano,San Jose Earthquakes
@@ -17128,7 +17128,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,25,32,53,66,45,38,CM,Jang Eun Gyu,Sangju Sangmu FC
 1,19,51,56,58,52,43,CM,F. Durmuş,Sivasspor
 1,22,61,41,47,55,28,ST,R. Lopez-Espin,Real Salt Lake
-€0.00,26,40,46,77,68,,,J. Singh,
+0.00,26,40,46,77,68,,,J. Singh,
 3,21,60,28,49,31,21,CB,K. Davies,Notts County
 1,22,48,45,56,43,5,LB,Y. Aguila,Club Deportes Temuco
 1,18,44,56,72,54,30,ST,J. Romo,CD Palestino
@@ -17196,7 +17196,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,40,52,64,30,26,LB,A. Kawai,Sanfrecce Hiroshima
 1,23,59,43,52,48,23,RS,A. Nadesan,Carlisle United
 1,19,54,24,43,35,31,CB,A. Rodriguez,Universidad de Chile
-€0.00,21,13,11,24,24,1,GK,V. Kaith,
+0.00,21,13,11,24,24,1,GK,V. Kaith,
 1,22,41,54,64,52,15,RM,S. Daly-Bütz,Cork City
 1,19,56,28,38,45,35,CB,A. Gudjónsson,Strømsgodset IF
 1,16,58,28,47,39,46,CB,H. Andersson,Örebro SK
@@ -17214,7 +17214,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,49,38,54,68,29,ST,L. Hlabi,Gillingham
 1,22,16,8,39,22,19,GK,L. O'Reilly,Carlisle United
 1,20,50,28,40,45,16,CB,H. Noda,Gamba Osaka
-€0.00,26,65,50,58,29,3,RB,K. Taimi,
+0.00,26,65,50,58,29,3,RB,K. Taimi,
 3,23,22,19,43,29,1,GK,R. Al Najjar,Al Ittihad
 2,20,33,52,80,46,15,LM,Liu Yue,Tianjin Quanjian FC
 2,20,49,52,57,49,18,ST,A. Takagi,Gamba Osaka
@@ -17338,7 +17338,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 3,20,44,47,74,59,36,CM,R. Huser,FC Basel 1893
 1,20,53,51,74,51,26,ST,J. Suárez,Alianza Petrolera
 1,21,45,52,59,55,25,RM,D. Gąska,Śląsk Wrocław
-€0.00,23,49,53,57,50,,,S. Passi,
+0.00,23,49,53,57,50,,,S. Passi,
 1,23,7,10,30,11,1,GK,D. Maekawa,Vissel Kobe
 1,35,13,14,31,20,20,GK,G. Maley,Livingston FC
 1,22,5,9,15,20,28,GK,K. Yoshimaru,Vissel Kobe
@@ -17435,7 +17435,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,21,48,26,63,33,37,CDM,Yu Zhen,Dalian YiFang FC
 3,20,40,60,74,63,27,LB,B. Morgado,FC Sion
 1,19,12,14,25,22,39,GK,Shen Shuaishuai,Guangzhou R&F; FC
-€0.00,20,48,47,59,51,,,D. Lalhlimpuia,
+0.00,20,48,47,59,51,,,D. Lalhlimpuia,
 3,21,40,43,69,44,13,CDM,A. Zabani,Al Batin
 1,19,45,50,58,27,33,LB,L. Butroid,Scunthorpe United
 4,17,59,49,60,55,46,ST,S. Walker,Middlesbrough
@@ -17538,7 +17538,7 @@ y,x,x1,x2,x3,x4,x5,x6,x7,x8
 1,18,48,24,63,37,4,CB,S. Haubrock,VfL Osnabrück
 1,20,39,53,55,53,25,LM,A. Estacio,Deportivo Pasto
 1,18,22,55,65,29,31,LB,J. Brändle,1. FC Heidenheim 1846
-€0.00,21,48,38,62,31,,,C. Singh,
+0.00,21,48,38,62,31,,,C. Singh,
 1,20,20,19,32,16,13,GK,J. Walton,Barnsley
 1,18,38,55,64,57,26,RW,N. Sette,Melbourne Victory
 1,18,46,45,62,36,29,CAM,K. Sparta,AFC Wimbledon
